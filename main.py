@@ -21,12 +21,14 @@ if __name__ == '__main__':
     w.isconnected()  # 判断WindPy是否已经登录成功
     # 通过wsi来取日内分钟数据，三年内数据
     print('\n\n' + '-----通过wsi来取日内分钟数据-----' + '\n')
-    error_code, wsi_data = w.wsi("000665.SZ", "close,EXPMA", "2022-01-12 09:00:00", "2022-01-12 16:16:02", "EXPMA_N=20", usedf=True)
+    # error_code, wsi_data = w.wsi("000665.SZ", "close,EXPMA", "2022-01-11 14:00:00", "2022-01-12 15:30:00", "EXPMA_N=20", usedf=True)
+    error_code, wsi_data = w.wsi("300072.SZ", "close,volume,BOLL,EXPMA,MA", "2021-12-14 09:30:00", "2021-12-22 15:29:00", "BOLL_N=26;BOLL_Width=2;BOLL_IO=2;EXPMA_N=20;MA_N=50", usedf=True)
+
     # printpy(wsidata)
 
     if error_code == 0:
         # print(wsi_data)
-        wsi_data.to_csv('sample.csv')
+        wsi_data.to_csv('300072-1.csv')
     else:
         print("Error Code:", error_code)
         print("Error Message:", wsi_data.iloc[0, 0])
