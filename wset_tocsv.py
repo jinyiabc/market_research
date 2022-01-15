@@ -3,6 +3,9 @@ from WindPy import w
 
 # 命令如何写可以用命令生成器来辅助完成
 # 定义打印输出函数，用来展示数据使用
+from helper.mysql_dbconnection import mysql_dbconnection
+
+
 def printpy(outdata):
     if outdata.ErrorCode!=0:
         print('error code:'+str(outdata.ErrorCode)+'\n')
@@ -30,7 +33,8 @@ if __name__ == '__main__':
     print(wsetdata['tradedate'])
     datelist = wsetdata['tradedate'].drop_duplicates().to_list()
 
-
+    dbConnection = mysql_dbconnection(database='china_stock_wiki')
+    tableName = '000300_SH'.lower()
     for i, value in enumerate(datelist):
         ErrorCode, wsetdata = w.wset("IndexConstituent", f"date={str(value.date())};windcode={sector};field=date,wind_code,i_weight",
                                      usedf=True)
@@ -43,6 +47,7 @@ if __name__ == '__main__':
         else:
             print("Error Code:", ErrCode)
             print("Error Message:", wsetdata.iloc[0, 0])
+
 
     w.stop() # 当需要停止WindPy时，可以使用该命令
               # 注： w.start不重复启动，若需要改变参数，如超时时间，用户可以使用w.stop命令先停止后再启动。
