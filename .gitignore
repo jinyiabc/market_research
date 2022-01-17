@@ -2,3 +2,5 @@
 *.pyc
 helper/__pycahe__/*.pyc
 helper/configSQL.py
+*.pyc
+
