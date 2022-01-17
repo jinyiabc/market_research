@@ -8,5 +8,7 @@ config = {
   'database': 'china_stock_wiki',
   'raise_on_warnings': True,
   'allow_local_infile': False,
-  'table_name': ''
+  'table_name': '',
+  'windAccount': cfg['simulate_account'],
+  'windPassword': cfg['simulate_password']
 }

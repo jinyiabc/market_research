@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ee4815-44ce-4cd8-bfa1-b5682f493242" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/backtest/flow_backtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/backtest/holding_backtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/backtest/weight_backtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/pywsqdataif.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/readme.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/train1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/visualization/wsd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/visualization/wsd_k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/wind_test.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/wind_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/wsq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/wsq_dialog/globaldef.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/wsq_dialog/quote.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/wsq_dialog/quotedlg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/wsq_dialog/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/wsq_dialog/ui_quote.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/wsq_dialog/wsq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train/wss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wss_tosql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/wind_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wind_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train/trade/tlogon.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helper/configSQL.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper/configSQL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/mysql_dbconnection.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper/mysql_dbconnection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper/mysql.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/helper/mysql.cfg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +64,7 @@
       <recent name="D:\work\wind_api\helper" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.weight_backtest">
+  <component name="RunManager" selected="Python.tlogon">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="wind_api" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +91,9 @@
       <module name="wind_api" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train/backtest" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -130,6 +113,9 @@
       <module name="wind_api" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train/backtest" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -149,6 +135,9 @@
       <module name="wind_api" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train/backtest" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -164,10 +153,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tlogon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wind_api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train/trade/tlogon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="weight_backtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="wind_api" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train/backtest" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -183,42 +194,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wsd_k" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="wind_api" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train/visualization" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train/visualization/wsd_k.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.wsd_k" />
       <item itemvalue="Python.flow_backtest" />
       <item itemvalue="Python.holding_backtest" />
       <item itemvalue="Python.flow_backtest (1)" />
       <item itemvalue="Python.weight_backtest" />
+      <item itemvalue="Python.tlogon" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tlogon" />
         <item itemvalue="Python.weight_backtest" />
         <item itemvalue="Python.holding_backtest" />
         <item itemvalue="Python.flow_backtest (1)" />
         <item itemvalue="Python.flow_backtest" />
-        <item itemvalue="Python.wsd_k" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +230,8 @@
       <workItem from="1642404298284" duration="1479000" />
       <workItem from="1642405809102" duration="97000" />
       <workItem from="1642405935147" duration="4576000" />
-      <workItem from="1642415200405" duration="6239000" />
+      <workItem from="1642415200405" duration="9596000" />
+      <workItem from="1642440794985" duration="3401000" />
     </task>
     <servers />
   </component>
@@ -273,6 +263,7 @@
     <SUITE FILE_PATH="coverage/wind_api$wset.coverage" NAME="wset Coverage Results" MODIFIED="1642269901342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wind_api$wsd.coverage" NAME="wsd Coverage Results" MODIFIED="1642426408104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train/visualization" />
     <SUITE FILE_PATH="coverage/wind_api$sqlalchemy.coverage" NAME="sqlalchemy Coverage Results" MODIFIED="1642261077109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wind_api$tlogon.coverage" NAME="tlogon Coverage Results" MODIFIED="1642443455340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train/trade" />
     <SUITE FILE_PATH="coverage/wind_api$pandas_import__1_.coverage" NAME="pandas_import (1) Coverage Results" MODIFIED="1642261220025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/wind_api$train1.coverage" NAME="train1 Coverage Results" MODIFIED="1642305064610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wind_api$mysql_dbconnection__1_.coverage" NAME="mysql_dbconnection Coverage Results" MODIFIED="1642305351093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
