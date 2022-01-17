@@ -16,7 +16,7 @@ def mysql_dbconnection(database=None):
 
 if __name__ == '__main__':
     import pandas as pd
-    test = 'WRITE'  # Set to 'WRITE' to test.
+    test = 'READ'  # Set to 'WRITE' to test.
     if test == 'WRITE':
         userVitals = {"UserId": ["xxxxx", "yyyyy", "zzzzz", "aaaaa", "bbbbb", "ccccc", "ddddd"],
 
@@ -66,9 +66,9 @@ if __name__ == '__main__':
 
     if test == 'READ':
 
-        dbConnection = mysql_dbconnection()
+        dbConnection = mysql_dbconnection('test1')
 
-        frame = pd.read_sql("select * from test1.uservitals", dbConnection);
+        frame = pd.read_sql("select * from uservitals", dbConnection);
 
         pd.set_option('display.expand_frame_repr', False)
 
