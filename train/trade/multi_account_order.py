@@ -1,9 +1,12 @@
 import sys
 from PyQt5 import QtCore,QtGui,uic,QtWidgets
 from WindPy import w
+
+from helper.configSQL import config
+
 w.start()
 
-qtCreatorFile="sample.ui" # The name of the used UI file
+qtCreatorFile="train/trade/sample.ui" # The name of the used UI file
 Ui_MainWindow,QtBaseClass = uic.loadUiType(qtCreatorFile)
 
 global accountNumber
@@ -31,7 +34,7 @@ class MyApp(QtWidgets.QMainWindow,Ui_MainWindow):
             print(self.account_label0.text())
             temtText = eval("self."+accountlabelName+".text()")
             if temtText!="":
-                windLogin=w.tlogon('0000','0',str(temtText),'123456','SHSZ') 
+                windLogin=w.tlogon('00000011','0',str(temtText),config['windPassword'],'SHSZ')
                 print(windLogin)
                 if windLogin.ErrorCode == 0:
                     exec('self.LogonID_label'+str(k)+'.setText(str(windLogin.Data[0][0]))')
@@ -91,3 +94,5 @@ if __name__ == "__main__":
     window = MyApp()
     window.show()
     sys.exit(app.exec_())
+
+# M5DDD653601, M5DDD653631
