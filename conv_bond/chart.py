@@ -7,10 +7,10 @@ import time
 
 dateparse  = lambda x: datetime.strptime(x, '%Y-%m-%d %H:%M:%S')
 
-df = pd.read_csv('300072-1.csv',
-                    parse_dates=['Unnamed: 0'],
-                    date_parser=dateparse,
-                    # index_col=['Unnamed: 0'],
+df = pd.read_csv('../resource/300072-1.csv',
+                 parse_dates=['Unnamed: 0'],
+                 date_parser=dateparse,
+                 # index_col=['Unnamed: 0'],
                  ).rename(columns={'Unnamed: 0': 'datetime'})
 df.fillna(method='ffill', inplace=True)
 print(df)

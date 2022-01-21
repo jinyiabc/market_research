@@ -7,17 +7,17 @@ import time
 
 dateparse  = lambda x: datetime.strptime(x, '%Y-%m-%d %H:%M:%S')
 
-df1 = pd.read_csv('300072-2.csv',
-                    parse_dates=['Unnamed: 0'],
-                    date_parser=dateparse,
-                    # index_col=['Unnamed: 0'],
-                 ).rename(columns={'Unnamed: 0': 'datetime'})
+df1 = pd.read_csv('../resource/300072-2.csv',
+                  parse_dates=['Unnamed: 0'],
+                  date_parser=dateparse,
+                  # index_col=['Unnamed: 0'],
+                  ).rename(columns={'Unnamed: 0': 'datetime'})
 df1.fillna(method='ffill', inplace=True)
-df2 = pd.read_csv('300144-2.csv',
-                    parse_dates=['Unnamed: 0'],
-                    date_parser=dateparse,
-                    # index_col=['Unnamed: 0'],
-                 ).rename(columns={'Unnamed: 0': 'datetime'})
+df2 = pd.read_csv('../resource/300144-2.csv',
+                  parse_dates=['Unnamed: 0'],
+                  date_parser=dateparse,
+                  # index_col=['Unnamed: 0'],
+                  ).rename(columns={'Unnamed: 0': 'datetime'})
 df2.fillna(method='ffill', inplace=True)
 
 

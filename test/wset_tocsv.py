@@ -26,28 +26,13 @@ if __name__ == '__main__':
     print('\n\n' + '-----获取申万一级行业的成分股-----' + '\n')
     # 获取申万一级行业的成分股
     print('\n\n' + '-----通过wset来取数据集数据,获取沪深300指数权重-----' + '\n')
-    sector = '000300.SH'
+    sector = '512690.SH'
     # date = '2021-12-22'
     # ErrorCode, wsetdata = w.wset("IndexConstituent", f"date={date};windcode={sector};field=date,wind_code,i_weight",usedf = True)
-    ErrCode, wsetdata = w.wset("indexhistory","startdate=2010-12-15;enddate=2022-01-15;windcode=000300.SH", usedf = True)
-    print(wsetdata['tradedate'])
-    datelist = wsetdata['tradedate'].drop_duplicates().to_list()
+    # ErrCode, wsetdata = w.wset("indexhistory","startdate=2010-12-15;enddate=2022-01-15;windcode=000300.SH", usedf = True)
 
-    dbConnection = mysql_dbconnection(database='china_stock_wiki')
-    tableName = '000300_SH'.lower()
-    for i, value in enumerate(datelist):
-        ErrorCode, wsetdata = w.wset("IndexConstituent", f"date={str(value.date())};windcode={sector};field=date,wind_code,i_weight",
-                                     usedf=True)
-        if ErrCode == 0 :
-            wsetdata.set_index('wind_code', inplace=True)
-            if i ==0:
-                wsetdata.to_csv(f'{sector}.csv')
-            else:
-                wsetdata.to_csv(f'{sector}.csv',mode='a', header=False)
-        else:
-            print("Error Code:", ErrCode)
-            print("Error Message:", wsetdata.iloc[0, 0])
-
+    ErrCode, wsetdata  = w.wset("allfundhelddetail", "rptdate=20210930;windcode=512690.SH;field=stock_code,proportiontonetvalue",usedf = True)
+    wsetdata.to_csv(f'{sector}.csv', mode='a', header=False)
 
     w.stop() # 当需要停止WindPy时，可以使用该命令
               # 注： w.start不重复启动，若需要改变参数，如超时时间，用户可以使用w.stop命令先停止后再启动。

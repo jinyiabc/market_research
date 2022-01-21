@@ -10,7 +10,7 @@ def expotential_moving_average(df, span):
     return ewm
 
 if __name__ == '__main__':
-    df = pd.read_csv('sample.csv')
+    df = pd.read_csv('../resource/sample.csv')
     df['custom_ema'] = expotential_moving_average(df, 20)
     # print(df)
     df.to_csv('test_compare.csv')
