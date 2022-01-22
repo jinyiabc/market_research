@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58ee4815-44ce-4cd8-bfa1-b5682f493242" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data_prep/WSDLoader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_prep/WSETLoader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_prep/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helper/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helper/upload_github.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/test_wset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/WSETLoader_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conv_bond/0120_conv_bond.py" beforeDir="false" afterPath="$PROJECT_DIR$/conv_bond/0120_conv_bond.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conv_bond/0120m_conv_bond.py" beforeDir="false" afterPath="$PROJECT_DIR$/conv_bond/0120m_conv_bond.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_prep/sector_portfolio.py" beforeDir="false" afterPath="$PROJECT_DIR$/sector_comparison/sector_portfolio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_prep/upload_github.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/mysql.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/helper/mysql.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/mysql_dbconnection.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper/mysql_dbconnection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/wset_tocsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/wset_tocsv_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/wset_tosql.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/wsq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/wss_tosql.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/WSSLoader_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train/pywsqdataif.data" beforeDir="false" afterPath="$PROJECT_DIR$/resource/pywsqdataif.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train/readme.docx" beforeDir="false" afterPath="$PROJECT_DIR$/train/schedule/readme.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train/train1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/WSDLoader_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train/wind_test.bat" beforeDir="false" afterPath="$PROJECT_DIR$/train/schedule/wind_test.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train/wind_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/train/schedule/wind_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train/wsq.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/wsq_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train/wss.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_prep/WSSLoader.py" afterDir="false" />
-    </list>
+    <list default="true" id="58ee4815-44ce-4cd8-bfa1-b5682f493242" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,7 +262,7 @@
       <workItem from="1642785599670" duration="12894000" />
       <workItem from="1642825696542" duration="2907000" />
       <workItem from="1642828652094" duration="606000" />
-      <workItem from="1642830163457" duration="595000" />
+      <workItem from="1642830163457" duration="867000" />
     </task>
     <servers />
   </component>
