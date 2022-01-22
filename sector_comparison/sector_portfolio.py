@@ -3,7 +3,7 @@ from WindPy import w
 
 # 命令如何写可以用命令生成器来辅助完成
 # 定义打印输出函数，用来展示数据使用
-from helper.mysql_dbconnection import mysql_dbconnection
+from helper import mysql_dbconnection
 
 
 def printpy(outdata):

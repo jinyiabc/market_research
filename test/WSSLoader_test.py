@@ -1,11 +1,5 @@
-import pandas as pd
-from WindPy import w
-
-# 命令如何写可以用命令生成器来辅助完成
-# 定义打印输出函数，用来展示数据使用
-from helper.configSQL import config
-from helper.mysql_dbconnection import mysql_dbconnection
-from train.wss import WSSLoader
+from helper import mysql_dbconnection,config
+from data_prep import WSSLoader
 
 
 def main(start_date, end_date):

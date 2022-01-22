@@ -46,7 +46,7 @@ if __name__ == '__main__':
         print("Error Message:", start_ret.Data[0])
     else:
         # Open a file to write.
-        pf = open('pywsqdataif.data', 'w')
+        pf = open('../resource/pywsqdataif.data', 'w')
         # Subscribe market quotation data
         wsq_ret = w.wsq("CN.SG","rt_time,rt_last",func=myCallback)
 

@@ -2,9 +2,9 @@ import time
 
 import pandas as pd
 from WindPy import w
-from helper.mysql_dbconnection import mysql_dbconnection
+from helper import config, mysql_dbconnection, upload_github
 import mysql.connector
-from helper.configSQL import config
+
 
 class WSSLoader:
 
@@ -88,34 +88,15 @@ class WSSLoader:
 
         print(self.current_time, ": Downloading Data Finished .")
 
-    # def get_windcodes(self, trade_date=None):
-    #     """
-    #     Retrieve the windcodes of CSI300 (沪深300) constituents
-    #     :param trade_date: the date to retrieve the windcodes of the constituents
-    #     :return: Error code or a list of windcodes
-    #     """
-    #     w.start()
-    #     if trade_date is None:
-    #         trade_date = self._end_date
-    #     # Retrieve the windcodes of CSI300 constituents.
-    #     # Users can use Sector Constituents and Index Constituents of WSET to retrieve the constituents of a sector or an index
-    #     stock_codes = w.wset("sectorconstituent", "date=" + trade_date + ";windcode=000300.SH;field=wind_code")
-    #     if stock_codes.ErrorCode != 0:
-    #         # Return the error code when an error occurs
-    #         return stock_codes.ErrorCode
-    #     else:
-    #         # Return a list of windcodes if the data is achieved
-    #         return stock_codes.Data[0]
-
     @staticmethod
-    def fetchall_data(wind_code):
+    def fetchall_data(wind_code, table_name):
         """
         Fetch data from SQLite database
         :param str, wind_code:
         :return: None
         """
         db_engine = mysql_dbconnection(config['database'])
-        query = ("SELECT * FROM " + config['table_name'] + " "
+        query = ("SELECT * FROM " + table_name + " "
                  "WHERE wind_code ='" + wind_code + "'")
 
         data = pd.read_sql(query, db_engine)
@@ -130,6 +111,7 @@ class WSSLoader:
 
         return data
 
+
     @staticmethod
     def fetchall_log():
         """
@@ -143,3 +125,8 @@ class WSSLoader:
             # Print error log
             print(row)
         cnx.close()
+
+    def upload_csv(self):
+        table_name = self._table_name
+        file_path = f'resource/{table_name}.csv'
+        upload_github(file_path)

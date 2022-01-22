@@ -2,3 +2,7 @@
 *.pyc
 helper/configSQL.py
 
+/venv/
+*.cfg
+helper/mysql.cfg
+helper/mysql.cfg

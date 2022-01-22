@@ -1,5 +1,5 @@
 from sqlalchemy  import create_engine
-from helper.configSQL import config
+from helper import config
 
 
 def mysql_dbconnection(database=None):
