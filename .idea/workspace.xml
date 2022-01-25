@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ee4815-44ce-4cd8-bfa1-b5682f493242" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/data-csv/data-csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/data-pandas/data-pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/mysql_dbconnection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/resource/Table_3420.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/resource/composition.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/resource/test_wset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/resource/test_wset1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/resource/test_wset2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/resource/test_wset3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_get_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_get_data_sql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wind_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/market_research.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conv_bond/0120_conv_bond.py" beforeDir="false" afterPath="$PROJECT_DIR$/conv_bond/0120_conv_bond.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_prep/WSDLoader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_prep/WSETLoader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_prep/WSSLoader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_prep/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/configSQL.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/insert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/mysql_dbconnection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper/upload_github.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sector_comparison/sector_portfolio.py" beforeDir="false" afterPath="$PROJECT_DIR$/sector_comparison/sector_portfolio_data_prep.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/WSDLoader_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/WSDLoader_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/WSETLoader_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/WSETLoader_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/WSSLoader_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/WSSLoader_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/wsd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/train/trade/multi_account_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/train/trade/multi_account_order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train/trade/tlogon.py" beforeDir="false" afterPath="$PROJECT_DIR$/train/trade/tlogon.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +68,41 @@
     </key>
   </component>
   <component name="RunManager" selected="Python tests.pytest in test_get_data_sql.py">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="0120_conv_bond (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="wind_api" />
+      <module name="market_research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -135,7 +140,7 @@
       <method v="2" />
     </configuration>
     <configuration name="0120m_conv_bond" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="wind_api" />
+      <module name="market_research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -154,7 +159,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="wind_api" />
+      <module name="market_research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -176,7 +181,7 @@
       <method v="2" />
     </configuration>
     <configuration name="mysql_dbconnection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="wind_api" />
+      <module name="market_research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -195,7 +200,7 @@
       <method v="2" />
     </configuration>
     <configuration name="wsd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="wind_api" />
+      <module name="market_research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -213,8 +218,103 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in test_get_data_sql.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="wind_api" />
+      <module name="market_research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -283,7 +383,7 @@
       <workItem from="1642919222641" duration="1882000" />
       <workItem from="1642995706634" duration="2220000" />
       <workItem from="1643010990585" duration="1814000" />
-      <workItem from="1643081906404" duration="5149000" />
+      <workItem from="1643081906404" duration="5792000" />
     </task>
     <servers />
   </component>
