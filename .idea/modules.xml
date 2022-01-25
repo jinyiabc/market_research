@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/wind_api.iml" filepath="$PROJECT_DIR$/.idea/wind_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/market_research.iml" filepath="$PROJECT_DIR$/.idea/market_research.iml" />
     </modules>
   </component>
 </project>
