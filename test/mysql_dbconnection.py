@@ -1,18 +1,31 @@
+from importlib import resources
+
+from _mysql_connector import MySQLInterfaceError
+from helper.mysql_dbconnection import mysql_dbconnection
 from sqlalchemy  import create_engine
-from helper import config
+import config
+# from helper import config
+with resources.path('helper', 'mysql.cfg') as p:
+    resource_path = str(p)
+cfg = config.Config(resource_path)
 
-
-def mysql_dbconnection(database=None):
-    '''
-    database_url = mysql+mysqlconnector://<user>:<password>@<host>[:<port>]/<dbname>
-    '''
-    if database is None:
-        database_url = 'mysql+mysqlconnector://{}:{}@{}?charset=utf8mb4'.format(config['user'], config['password'],
-                                                                            config['host'])
-    else:
-        database_url = 'mysql+mysqlconnector://{}:{}@{}/{}?charset=utf8mb4'.format(config['user'], config['password'], config['host'], database)
-    sqlEngine = create_engine(database_url, pool_recycle=3600)
-    return sqlEngine.connect()
+# def mysql_dbconnection(database=None):
+#     '''
+#     database_url = mysql+mysqlconnector://<user>:<password>@<host>[:<port>]/<dbname>
+#     '''
+#     if database is None:
+#         database_url = 'mysql+mysqlconnector://{}:{}@{}?charset=utf8mb4'.format(cfg['user'], cfg['password'],
+#                                                                             cfg['host'])
+#     else:
+#         database_url = 'mysql+mysqlconnector://{}:{}@{}/{}?charset=utf8mb4'.format(cfg['user'], cfg['password'], cfg['host'], database)
+#
+#     sqlEngine = create_engine(database_url, pool_recycle=3600)
+#
+#     if cfg['password'] == "xxxxxxx":
+#         print(f"Please modify mysql.cfg file under {resource_path} to connect mysql properly.")
+#         exit()
+#
+#     return sqlEngine.connect()
 
 if __name__ == '__main__':
     import pandas as pd

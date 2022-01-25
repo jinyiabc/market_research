@@ -1,7 +1,6 @@
 from WindPy import *
-import time
 
-from helper.configSQL import config
+from test.helper import config
 
 
 class trade(object):

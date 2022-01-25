@@ -1,8 +1,8 @@
 import sys
-from PyQt5 import QtCore,QtGui,uic,QtWidgets
+from PyQt5 import uic,QtWidgets
 from WindPy import w
 
-from helper.configSQL import config
+from test.helper import config
 
 w.start()
 
