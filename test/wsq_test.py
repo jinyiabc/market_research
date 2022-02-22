@@ -46,16 +46,23 @@ if __name__ == '__main__':
         print("Error Message:", start_ret.Data[0])
     else:
         # Open a file to write.
-        pf = open('../resource/pywsqdataif.data', 'w')
-        # Subscribe market quotation data
-        wsq_ret = w.wsq("CN.SG","rt_time,rt_last",func=myCallback)
+        # pf = open('../resource/pywsqdataif.data', 'w')
+        # # Subscribe market quotation data
+        # wsq_ret = w.wsq("CN.SG","rt_time,rt_last",func=myCallback)
 
-        if wsq_ret.ErrorCode != 0:
-            print("Error Code:", wsq_ret.ErrorCode)
 
-        ext = ''
-        while ext != 'q':
-          ext = input('Enter "q" to exit')
+        # if wsq_ret.ErrorCode != 0:
+        #     print("Error Code:", wsq_ret.ErrorCode)
+        #
+        # ext = ''
+        # while ext != 'q':
+        #   ext = input('Enter "q" to exit')
+        #
+        # w.cancelRequest(0)
+        # pf.close()
 
-        w.cancelRequest(0)
-        pf.close()
+        wsq_data = w.wsq("002340.SZ,002594.SZ,159820.SZ,512690.SH,300144.SZ,300072.SZ", "rt_last")
+        print(wsq_data.Data[0])
+
+        current_price = wsq_data.Data[0]
+        current_quantity = [10300,100,20100,60700,5300,18600]    # 持有数量

@@ -2,7 +2,7 @@ import os
 import shutil
 
 from helper import get_data
-from src.helper.wind import read_wind_excel, read_wind_csv
+from helper.wind import read_wind_excel, read_wind_csv
 
 
 def test_get_data():

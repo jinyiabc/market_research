@@ -6,10 +6,13 @@
       <sourceFolder url="file://$MODULE_DIR$/custom_ind" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/resource" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sector_comparison" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (market_research)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (helper-4Wpgvp3w)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="china_stock_lib" />
+    <orderEntry type="module" module-name="PyPortfolioOpt" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />

@@ -2,18 +2,230 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ee4815-44ce-4cd8-bfa1-b5682f493242" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PyPortfolioOpt/cookbook/0121.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conv_bond/conv_0127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/Hybrid-Model-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/Time Series as Features-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/linear_regression_time_series-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/mysql-checkpoint.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/securites-checkpoint.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/sersonality-bank-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/sersonality-basic-material-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/sersonality-beer-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/sersonality-securites-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/sersonality-wine-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/.ipynb_checkpoints/test-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/Hybrid-Model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/Time Series as Features.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/bank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/basic_material.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/beer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/finance_rpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/finance_rpt_est.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/linear_regression_time_series.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/mysql.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/resource/finance_rpt.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/resource/finance_rpt.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/resource/finance_rpt_FALSE.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/resource/terminology.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/securites.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/sersonality-bank.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/sersonality-basic-material.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/sersonality-beer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/sersonality-securites.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/sersonality-wine.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyclic_sector/wine.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/bank_bond_aaa-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/bank_bond_aaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/commecial_bank_straight_latest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/commecial_bank_straight_latest_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/commecial_bank_straight_latest_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/commecial_bank_sub_latest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/construct_yield_curve_from_zero_coupon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/.ipynb_checkpoints/american-option-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/.ipynb_checkpoints/bonds-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/.ipynb_checkpoints/bonds-checkpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/american-option.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/american-option.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/basket-option.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/basket-option.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/bermudan-swaption.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/bermudan-swaption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/bonds.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/bonds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/cashflows.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/cashflows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/cds.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/cds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/european-option.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/european-option.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/gaussian1d-models.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/gaussian1d-models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/global-bootstrap.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/global-bootstrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/icbc.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/icbc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/isda-engine.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/isda-engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/slv.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/slv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/swap.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/swing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/examples/swing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/market_0208.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/portfolio0127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/term_structure_construction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/.ipynb_checkpoints/test_yearfrac-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/AAA远期收益率曲线.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/ChinaFixingRepoSwapCurve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/CompareCubicAndQuadratic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/example_plots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/test_bond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/test_numpyfinance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/test_quantlib_china.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/test_time_factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/test_yearfrac.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/test_yield_curve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/中证远期收益率曲线.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/商业银行普通债即期收益率.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test/商业银行远期收益率曲线.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/QuantLibTestSuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/americanquantooption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/assetswap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/blackformula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/bonds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/capfloor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/cms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/coupons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/currencies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/daycounters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/extrapolation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/fdm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/iborindex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/inflation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/instruments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/integrals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/marketelements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/ode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/ratehelpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/sabr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/slv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/solvers1d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/swaption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/termstructures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/test_quantlib/volatilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.ipynb_checkpoints/0124-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.ipynb_checkpoints/Myportfolio0127-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.ipynb_checkpoints/portfolio0127-checkpoint.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.ipynb_checkpoints/portfolio0127-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.ipynb_checkpoints/portfolio0127_3y_day-checkpoint.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.ipynb_checkpoints/portfolio0127_5y_day-checkpoint.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/.ipynb_checkpoints/research_portfolio0127-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/0124.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/2013年中债商业银行普通债收益率曲线(AAA)标准期限信息.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/Myportfolio0127.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/SSE-TRADED-BONDS0209.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/SSE-TRADED-BONDS0209_valuation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bond_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/bond_price_formula.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/commecial_bank_straight_latest.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/commecial_bank_straight_latest_valuation-2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/commecial_bank_straight_latest_valuation-3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/commecial_bank_sub_latest-1.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/commecial_bank_sub_latest.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/commecial_bank_sub_latest.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/commercial_bank_valuation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/convb-快照1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/convb.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/convertible_bond.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/finance_rpt.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/finance_rpt_est.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/portfolio0127-1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/portfolio0127.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/portfolio0127.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/portfolio0127.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/portfolio0127_3y_day.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/portfolio0127_3y_week.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/portfolio0127_5y.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/portfolio0127_5y_day.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/portfolio0127_5y_week.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/research_portfolio0127.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/underlying_stock.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/中债商业银行AAA即期0127.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/债券市场行情_外汇中心0130.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/债券市场行情_外汇中心0207.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/可转债指标.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/可转债股票指标.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/周期性行业.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/商业银行债券0128.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/转股类债券0125.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/转股类债券0125v1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/转股类债券_正股代码.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/金融债上清所0127.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/金融债上清所0127.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sector_comparison/wsd_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/1-instruments_and_pricing_engines.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/a_glitch_in_forward_curves.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/bond_with_credit_spread.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/building_irregular_bonds.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/callable_bonds.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/capfloor_valuations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/commodity_futures_options.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/cookbook_code_conventions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/discount_margin_calculation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/eonia_curve_bootstrapping.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/euribor_curve_bootstrapping.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/heston_calibration_scipy_many.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/heston_model_calibration_smile.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/hull_white_monte_carlo_convergence.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/hull_white_simulations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/implied_term_structures.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/interest_rate_model_calibration.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/irswapexample.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/mischievous_pricing_conventions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/modeling-bonds.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/more_mischievous_conventions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/option_pricing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/pricing_over_a_range_of_days.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/term_structure_construction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/understanding_heston_model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/understanding_treasury_futures.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantlib/notebooks/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/market_research.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/market_research.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sector_comparison/sector_portfolio_data_prep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/WSDLoader_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/WSDLoader_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_get_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_get_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/wsq_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/wsq_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -31,6 +243,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -44,7 +257,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23jr0YQw8pveGaZykPQT1jt4Lt0" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -58,86 +271,55 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/venv/Lib/site-packages/helper/WSDLoader.py&#10;D:/work/market_research/mysql.cfg&#10;D:/work/market_research/train_quantlib/notebooks/test/parametrizedtestcase.py&#10;D:/work/market_research/train_quantlib/notebooks/sandbox.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cyclic_sector/store-sales-time-series-forecasting" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\work\wind_api\test" />
-      <recent name="D:\work\wind_api\helper" />
-      <recent name="D:\work\wind_api" />
-      <recent name="D:\work\wind_api\venv" />
-      <recent name="D:\work\wind_api\train\data_subscription" />
+      <recent name="D:\work\market_research\cyclic_sector\store-sales-time-series-forecasting" />
+      <recent name="D:\work\market_research\cyclic_sector" />
+      <recent name="D:\work\market_research\portfolio" />
+      <recent name="D:\work\market_research\train_quantlib\notebooks" />
+      <recent name="D:\work\china_stock_lib\src\helper" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\market_research\train_quantlib\notebooks" />
+      <recent name="D:\work\market_research\portfolio\test" />
       <recent name="D:\work\wind_api\test" />
       <recent name="D:\work\wind_api\sector_comparison" />
       <recent name="D:\work\wind_api\helper" />
-      <recent name="D:\work\wind_api\resource" />
-      <recent name="D:\work\wind_api\train\schedule" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_get_data_sql.py">
-    <configuration name="0120_conv_bond (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.finance_rpt_est">
+    <configuration name="Unnamed" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug" nameIsGenerated="true">
+      <option name="PORT" value="0" />
+      <option name="HOST" value="localhost" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WSDLoader_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="market_research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/conv_bond" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\jinyi\.virtualenvs\helper-4Wpgvp3w\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../china_stock_lib/test" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conv_bond/0120_conv_bond.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="0120_conv_bond" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="wind_api" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\work\wind_api\0120_conv_bond.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="0120m_conv_bond" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="market_research" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/conv_bond" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conv_bond/0120m_conv_bond.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../china_stock_lib/test/WSDLoader_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mysql_dbconnection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="commecial_bank_straight_latest_v3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="market_research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,12 +358,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/portfolio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/mysql_dbconnection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/portfolio/commecial_bank_straight_latest_v3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,20 +372,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wsd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="finance_rpt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="market_research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/wsd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cyclic_sector/finance_rpt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,38 +391,131 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_get_data_sql.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="finance_rpt_est" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="market_research" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_get_data_sql.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cyclic_sector/finance_rpt_est.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="market_0208" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/portfolio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/portfolio/market_0208.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="portfolio0127" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jinyi\.virtualenvs\helper-4Wpgvp3w\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/portfolio/portfolio0127.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cyclic_sector/sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="market_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train_quantlib/notebooks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_quantlib/notebooks/sandbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.0120_conv_bond" />
-      <item itemvalue="Python.0120_conv_bond (1)" />
-      <item itemvalue="Python.0120m_conv_bond" />
-      <item itemvalue="Python.wsd" />
-      <item itemvalue="Python.mysql_dbconnection" />
-      <item itemvalue="Python tests.pytest in test_get_data_sql.py" />
+      <item itemvalue="Python.WSDLoader_test" />
+      <item itemvalue="Python.portfolio0127" />
+      <item itemvalue="Python.commecial_bank_straight_latest_v3" />
+      <item itemvalue="Python.sandbox" />
+      <item itemvalue="Python.market_0208" />
+      <item itemvalue="Python.sample" />
+      <item itemvalue="Python.finance_rpt" />
+      <item itemvalue="Python Debug Server.Unnamed" />
+      <item itemvalue="Python.finance_rpt_est" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_get_data_sql.py" />
-        <item itemvalue="Python.mysql_dbconnection" />
-        <item itemvalue="Python.wsd" />
-        <item itemvalue="Python.0120m_conv_bond" />
-        <item itemvalue="Python.0120_conv_bond (1)" />
+        <item itemvalue="Python.finance_rpt" />
+        <item itemvalue="Python.sample" />
+        <item itemvalue="Python.market_0208" />
+        <item itemvalue="Python.sandbox" />
+        <item itemvalue="Python.commecial_bank_straight_latest_v3" />
       </list>
     </recent_temporary>
   </component>
@@ -285,12 +557,36 @@
       <workItem from="1643010990585" duration="1814000" />
       <workItem from="1643081906404" duration="5792000" />
       <workItem from="1643088248392" duration="2333000" />
-      <workItem from="1643090610895" duration="29000" />
+      <workItem from="1643090610895" duration="15302000" />
+      <workItem from="1643130362761" duration="1677000" />
+      <workItem from="1643132115983" duration="4948000" />
+      <workItem from="1643163375072" duration="83486000" />
+      <workItem from="1643410142949" duration="16910000" />
+      <workItem from="1643475619651" duration="41701000" />
+      <workItem from="1643746574717" duration="46394000" />
+      <workItem from="1643861567596" duration="7051000" />
+      <workItem from="1643869427126" duration="1185000" />
+      <workItem from="1643870630933" duration="644000" />
+      <workItem from="1643871385787" duration="34963000" />
+      <workItem from="1643982456869" duration="10338000" />
+      <workItem from="1644155070344" duration="9768000" />
+      <workItem from="1644324834382" duration="15483000" />
+      <workItem from="1644722701929" duration="1324000" />
+      <workItem from="1644807378448" duration="18953000" />
+      <workItem from="1645175055639" duration="20885000" />
     </task>
     <servers />
   </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <envs>
+      <env key="https_proxy" value="http://127.0.0.1:10809" />
+    </envs>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -306,26 +602,145 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.virtualenvs/helper-4Wpgvp3w/Lib/site-packages/helper/get_data.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/wsq_test.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/wsq_test.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/portfolio/test/example_plots.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_quantlib/notebooks/implied_term_structures.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_quantlib/notebooks/utils.py</url>
+          <line>206</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_quantlib/notebooks/sandbox.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_quantlib/notebooks/sandbox.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_quantlib/notebooks/sandbox.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/portfolio/market_0208.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cyclic_sector/sample.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cyclic_sector/finance_rpt_est.py</url>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://D:/work/market_research/train_quantlib/notebooks/sandbox.ipynb</url>
+          <line>1</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wind_api$wsd_k.coverage" NAME="wsd_k Coverage Results" MODIFIED="1642428716471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train/visualization" />
-    <SUITE FILE_PATH="coverage/wind_api$pytest_in_test_get_data_sql_py.coverage" NAME="pytest in test_get_data_sql.py Coverage Results" MODIFIED="1643087032480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/wind_api$insert.coverage" NAME="insert Coverage Results" MODIFIED="1642258246934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wind_api$pandas_import.coverage" NAME="pandas_import Coverage Results" MODIFIED="1642266433203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wind_api$quotedlg.coverage" NAME="quotedlg Coverage Results" MODIFIED="1642400991477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train/data_subscription" />
-    <SUITE FILE_PATH="coverage/wind_api$multi_account_order.coverage" NAME="multi_account_order Coverage Results" MODIFIED="1642519144149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train/trade" />
-    <SUITE FILE_PATH="coverage/wind_api$wss_tosql.coverage" NAME="wss_tosql Coverage Results" MODIFIED="1642353381248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wind_api$sector_portfolio.coverage" NAME="sector_portfolio Coverage Results" MODIFIED="1642775185386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_bond_test0.coverage" NAME="pytest for test_bond.test0 Coverage Results" MODIFIED="1643413349397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
     <SUITE FILE_PATH="coverage/wind_api$wind_test.coverage" NAME="wind_test Coverage Results" MODIFIED="1642308125992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train" />
     <SUITE FILE_PATH="coverage/wind_api$wsq.coverage" NAME="wsq Coverage Results" MODIFIED="1642395378231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train" />
-    <SUITE FILE_PATH="coverage/wind_api$0120.coverage" NAME="0120 Coverage Results" MODIFIED="1642699688546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_test_get_data_sql_py.coverage" NAME="pytest in test_get_data_sql.py Coverage Results" MODIFIED="1643296222191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../china_stock_lib/test" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_daycounters_py.coverage" NAME="pytest in daycounters.py Coverage Results" MODIFIED="1643602382898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test_quantlib" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_daycounters_py__1_.coverage" NAME="pytest in daycounters.py (1) Coverage Results" MODIFIED="1643610592036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train_quantlib/notebooks/test" />
     <SUITE FILE_PATH="coverage/wind_api$wset.coverage" NAME="wset Coverage Results" MODIFIED="1642269901342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wind_api$0120__1_.coverage" NAME="0120 (1) Coverage Results" MODIFIED="1642703617890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wind_api$wsd.coverage" NAME="wsd Coverage Results" MODIFIED="1642735923242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_time_factor_test_act_isda.coverage" NAME="pytest for test_time_factor.test_act_isda Coverage Results" MODIFIED="1643361303261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
     <SUITE FILE_PATH="coverage/wind_api$sqlalchemy.coverage" NAME="sqlalchemy Coverage Results" MODIFIED="1642261077109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wind_api$tlogon.coverage" NAME="tlogon Coverage Results" MODIFIED="1642443455340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train/trade" />
-    <SUITE FILE_PATH="coverage/wind_api$pandas_import__1_.coverage" NAME="pandas_import (1) Coverage Results" MODIFIED="1642261220025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/wind_api$train1.coverage" NAME="train1 Coverage Results" MODIFIED="1642305064610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wind_api$mysql_dbconnection__1_.coverage" NAME="mysql_dbconnection Coverage Results" MODIFIED="1642305351093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wind_api$upload_github.coverage" NAME="upload_github Coverage Results" MODIFIED="1642825059522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$WSDLoader_test.coverage" NAME="WSDLoader_test Coverage Results" MODIFIED="1643179567803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../china_stock_lib/test" />
+    <SUITE FILE_PATH="coverage/market_research$market_0208.coverage" NAME="market_0208 Coverage Results" MODIFIED="1644390067735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_numpyfinance_test_npv.coverage" NAME="pytest for test_numpyfinance.test_npv Coverage Results" MODIFIED="1643275522490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/market_research$commecial_bank_straight_latest_v3.coverage" NAME="commecial_bank_straight_latest_v3 Coverage Results" MODIFIED="1643975198082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_bond_test3.coverage" NAME="pytest for test_bond.test3 Coverage Results" MODIFIED="1643399533872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/wind_api$wsd_k.coverage" NAME="wsd_k Coverage Results" MODIFIED="1642428716471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train/visualization" />
+    <SUITE FILE_PATH="coverage/market_research$sandbox.coverage" NAME="sandbox Coverage Results" MODIFIED="1644331678533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train_quantlib/notebooks" />
+    <SUITE FILE_PATH="coverage/market_research$bank_bond_aaa_2.coverage" NAME="bank_bond_aaa-2 Coverage Results" MODIFIED="1643804526610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio" />
+    <SUITE FILE_PATH="coverage/wind_api$sector_portfolio.coverage" NAME="sector_portfolio Coverage Results" MODIFIED="1642775185386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$example_plots.coverage" NAME="example_plots Coverage Results" MODIFIED="1643534464213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_time_factor_test_act_afb.coverage" NAME="pytest for test_time_factor.test_act_afb Coverage Results" MODIFIED="1643347067608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_test_plots_py.coverage" NAME="pytest in test_plots.py Coverage Results" MODIFIED="1643526326509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_bond_test4.coverage" NAME="pytest for test_bond.test4 Coverage Results" MODIFIED="1643285152844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/wind_api$pandas_import__1_.coverage" NAME="pandas_import (1) Coverage Results" MODIFIED="1642261220025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/wind_api$train1.coverage" NAME="train1 Coverage Results" MODIFIED="1642305064610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_test_get_data_sql_py__1_.coverage" NAME="pytest in test_get_data_sql.py (1) Coverage Results" MODIFIED="1643183572619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../china_stock_lib/test" />
+    <SUITE FILE_PATH="coverage/market_research$9_par_vs_indexed_coupons.coverage" NAME="9-par_vs_indexed_coupons Coverage Results" MODIFIED="1643628920988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train_quantlib/notebooks" />
+    <SUITE FILE_PATH="coverage/market_research$implied_term_structures.coverage" NAME="implied_term_structures Coverage Results" MODIFIED="1643534487008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train_quantlib/notebooks" />
+    <SUITE FILE_PATH="coverage/wind_api$pytest_in_test_get_data_sql_py.coverage" NAME="pytest in test_get_data_sql.py Coverage Results" MODIFIED="1643087032480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/wind_api$insert.coverage" NAME="insert Coverage Results" MODIFIED="1642258246934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_test_time_factor_py__1_.coverage" NAME="pytest in test_time_factor.py (1) Coverage Results" MODIFIED="1643361568667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../china_stock_lib/test/bond" />
+    <SUITE FILE_PATH="coverage/wind_api$quotedlg.coverage" NAME="quotedlg Coverage Results" MODIFIED="1642400991477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train/data_subscription" />
+    <SUITE FILE_PATH="coverage/wind_api$multi_account_order.coverage" NAME="multi_account_order Coverage Results" MODIFIED="1642519144149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train/trade" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_time_factor_test_d30360e.coverage" NAME="pytest for test_time_factor.test_d30360e Coverage Results" MODIFIED="1643346984339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/market_research$bank_bond_aaa_1.coverage" NAME="bank_bond_aaa-1 Coverage Results" MODIFIED="1643862061941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_utils_py.coverage" NAME="pytest in utils.py Coverage Results" MODIFIED="1643626936854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train_quantlib/notebooks" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_test_yield_curve_py.coverage" NAME="pytest in test_yield_curve.py Coverage Results" MODIFIED="1643363149231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_test_quantlib_china_py.coverage" NAME="pytest in test_quantlib_china.py Coverage Results" MODIFIED="1643514289818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/market_research$bank_bond_aaa.coverage" NAME="bank_bond_aaa Coverage Results" MODIFIED="1643309958500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio" />
+    <SUITE FILE_PATH="coverage/wind_api$0120__1_.coverage" NAME="0120 (1) Coverage Results" MODIFIED="1642703617890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wind_api$wsd.coverage" NAME="wsd Coverage Results" MODIFIED="1642735923242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$wsq_test.coverage" NAME="wsq_test Coverage Results" MODIFIED="1643257905303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_test_time_factor_py.coverage" NAME="pytest in test_time_factor.py Coverage Results" MODIFIED="1643361343430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/market_research$sample.coverage" NAME="sample Coverage Results" MODIFIED="1645150124043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_test_numpyfinance_py.coverage" NAME="pytest in test_numpyfinance.py Coverage Results" MODIFIED="1643275381093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/wind_api$wss_tosql.coverage" NAME="wss_tosql Coverage Results" MODIFIED="1642353381248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_bond_test2.coverage" NAME="pytest for test_bond.test2 Coverage Results" MODIFIED="1643282715870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/market_research$conv.coverage" NAME="conv Coverage Results" MODIFIED="1643202739747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_in_mytest_py.coverage" NAME="pytest in mytest.py Coverage Results" MODIFIED="1643609338270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train_quantlib/notebooks/test" />
+    <SUITE FILE_PATH="coverage/wind_api$0120.coverage" NAME="0120 Coverage Results" MODIFIED="1642699688546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_time_factor_test_30365.coverage" NAME="pytest for test_time_factor.test_30365 Coverage Results" MODIFIED="1643347102773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/wind_api$tlogon.coverage" NAME="tlogon Coverage Results" MODIFIED="1642443455340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train/trade" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_numpyfinance_test_irr.coverage" NAME="pytest for test_numpyfinance.test_irr Coverage Results" MODIFIED="1643275296409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
+    <SUITE FILE_PATH="coverage/market_research$commecial_bank_straight_latest.coverage" NAME="commecial_bank_straight_latest Coverage Results" MODIFIED="1643941410520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio" />
+    <SUITE FILE_PATH="coverage/market_research$pytest_for_test_time_factor_test_default.coverage" NAME="pytest for test_time_factor.test_default Coverage Results" MODIFIED="1643361441815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/portfolio/test" />
   </component>
 </project>

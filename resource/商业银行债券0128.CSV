@@ -1,0 +1,332 @@
+﻿Symbol,Short Name,"Close (D)
+[Trade Date] Last Closing Day
+[Price Type] Dirty Price","Bid Yield (Optimal)
+[Trade Date] Last Closing Day
+[Unit] %",Initial Face Value,Latest Bond Rating,Maturity Date,Coupon Type,Interest Accrual Method,Coupon Description,Coupon Frequency,"Coupon Date (Y)
+[N] 1","Bond Term (Year)
+[Unit] Yearly",Maturities (Text),Interest Reference,Coupon Date Description,"Bond Term (Year)
+[Unit] Yearly","Issue Amount
+[Unit] (100M)"
+1105001.IB,ICBC 5.56% B310630,103.1889,,100,AAA,6/30/2031,Fixed Interest Rate,Simple interest,5.56%,1,6月30日,20,15+5,ACT/ACT,"Pay interest on June 30 every year, and postpone holidays",20,380
+1120004.IB,BANK OF SHANGHAI 5.8% B260524,110.8518,,100,AAA,5/24/2026,Fixed Interest Rate,Simple interest,5.80%,1,5月24日,15,15,ACT/ACT,"Pay interest on May 24 every year, and postpone holidays",15,25
+1205001.IB,ICBC 4.99% B270613,104.0684,,100,AAA,6/13/2027,Fixed Interest Rate,Simple interest,4.99%,1,6月13日,15,10+5,ACT/ACT,The interest payment will be postponed on June 13 every year,15,200
+1206002.IB,BANK OF CHINA 4.99% B271129,100.8066,,100,AAA,11/29/2027,Fixed Interest Rate,Simple interest,4.99%,1,11月29日,15,10+5,ACT/ACT,"Pay interest on November 29 every year, and holidays are postponed",15,180
+1207001.IB,CCB 4.99% B271122,102.9474,,100,AAA,11/22/2027,Fixed Interest Rate,Simple interest,4.99%,1,11月22日,15,10+5,ACT/ACT,The interest payment holiday will be postponed every November 22,15,400
+1209002.IB,SPDB 5.20% B271228,103.7101,,100,AAA,12/28/2027,Fixed Interest Rate,Simple interest,5.20%,1,12月28日,15,10+5,ACT/ACT,"Pay interest on December 28 every year, and postpone holidays",15,120
+1211003.IB,CHINA MERCHANTS BANK 5.20% B271228,100.4274,,100,AAA,12/28/2027,Fixed Interest Rate,Simple interest,5.20%,1,12月28日,15,10+5,ACT/ACT,"Pay interest on December 28 every year, and postpone holidays",15,117
+1212001.IB,CNCB 5.15% B270621,103.3041,,100,AAA,6/21/2027,Fixed Interest Rate,Simple interest,5.15%,1,6月21日,15,10+5,ACT/ACT,"Pay interest on June 21 every year, and holidays are postponed",15,200
+1218003.IB,CEB 5.25% B270608,104.2569,,100,AAA,6/8/2027,Fixed Interest Rate,Simple interest,5.25%,1,6月8日,15,10+5,ACT/ACT,"Pay interest on June 8 every year, and postpone holidays",15,67
+1219001.IB,CGB 5.6% B271228,106.3122,,100,AAA,12/28/2027,Fixed Interest Rate,Simple interest,5.60%,1,12月28日,15,10+5,ACT/ACT,"Pay interest on December 28 every year, and postpone holidays",15,45
+1220002.IB,ZHEJIANG TAILONG COMMERCIAL BANK 8.1% B270307,108.1179,,100,AA+,3/7/2027,Fixed Interest Rate,Simple interest,8.10%,1,3月7日,15,10+5,ACT/ACT,"Interest is paid on March 7 every year, holidays are postponed",15,6.5
+1220019.IB,BANK OF NINGBO 5.75% B271126,103.8909,,100,AAA,11/26/2027,Fixed Interest Rate,Simple interest,5.75%,1,11月26日,15,10+5,ACT/ACT,The interest payment will be postponed on November 26 every year,15,30
+1220023.IB,BANK OF SHANGHAI 5.35% B271207,102.7075,,100,AAA,12/7/2027,Fixed Interest Rate,Simple interest,5.35%,1,12月7日,15,10+5,ACT/ACT,"Interest is paid on December 7 every year, holidays are postponed",15,50
+1220029.IB,BANK OF GUIYANG 6.5% B221228,104.4546,,100,AA+,12/28/2022,Fixed Interest Rate,Simple interest,6.50%,1,12月28日,10,5+5,ACT/ACT,"Pay interest on December 28 every year, and postpone holidays",10,12
+1220030.IB,BANK OF TIANJIN 5.9% B221228,102.5975,,100,AA+,12/28/2022,Fixed Interest Rate,Simple interest,5.90%,1,12月28日,10,5+5,ACT/ACT,"Pay interest on December 28 every year, and postpone holidays",10,15
+1220031.IB,BANK OF TIANJIN 5.99% B271228,102.3899,,100,AA+,12/28/2027,Fixed Interest Rate,Simple interest,5.99%,1,12月28日,15,10+5,ACT/ACT,"Pay interest on December 28 every year, and postpone holidays",15,12
+1224002.IB,CBHB 5.68% B270723,104.5256,,100,AAA,7/23/2027,Fixed Interest Rate,Simple interest,5.68%,1,7月23日,15,10+5,ACT/ACT,"Pay interest on July 23 every year, and holidays are postponed",15,9.5
+1225001.IB,AGRICULTURAL BANK OF CHINA 4.99% B271220,102.9283,,100,AAA,12/20/2027,Fixed Interest Rate,Simple interest,4.99%,1,12月20日,15,10+5,ACT/ACT,"Pay interest on December 20 every year, and postpone holidays",15,500
+1320015.IB,BANK OF NINGBO 5.13% B230418,106.8909,,100,AAA,4/18/2023,Fixed Interest Rate,Simple interest,5.13%,1,4月18日,10,10,ACT/ACT,"Pay interest on April 18 every year, and postpone holidays",10,30
+1720012.IB,NJCB 4.60% B220427,104.0093,2.54,100,AAA,4/27/2022,Fixed Interest Rate,Simple interest,4.60%,1,4月27日,5,5,A/365F,"April 27, April 27, payment, holiday",5,10
+1720017.IB,BOB 4.50% B220419,104.2458,2.55,100,AAA,4/19/2022,Fixed Interest Rate,Simple interest,4.50%,1,4月19日,5,5,ACT/ACT,"April 19, April 19, payment, holiday",5,30
+1720018.IB,BANK OF GANSU 5.00% B220419,104.4528,,100,AAA,4/19/2022,Fixed Interest Rate,Simple interest,5.00%,1,4月19日,5,5,ACT/ACT,"April 19, April 19, payment, holiday",5,10
+1720022.IB,HARBIN BANK 4.75% B220510,103.4096,,100,AAA,5/10/2022,Fixed Interest Rate,Simple interest,4.75%,1,5月10日,5,5,A/365F,"Pay interest on May 10 every year, and postpone holidays",5,10
+1720032.IB,LESHAN CITY COMMERCIAL BANK 5.60% B220605,103.6208,,100,AA,6/5/2022,Fixed Interest Rate,Simple interest,5.60%,1,6月5日,5,5,ACT/ACT,The interest payment will be postponed on the 5th of June every year,5,2
+1720048.IB,CHONGQING THREE CORGES BANK 5.15% B220728,103.9321,,100,AA+,7/28/2022,Fixed Interest Rate,Simple interest,5.15%,1,7月28日,5,5,A/365F,"Pay interest on July 28 every year, and holidays are postponed",5,10
+1720050.IB,LESHAN CITY COMMERCIAL BANK 5.49% B220811,101.2827,,100,AA,8/11/2022,Fixed Interest Rate,Simple interest,5.49%,1,8月11日,5,5,ACT/ACT,"Pay interest on August 11 every year, and postpone holidays",5,5
+1720052.IB,BANK OF JIANGSU 4.50% B220728,103.958,,100,AAA,7/28/2022,Fixed Interest Rate,Simple interest,4.50%,1,7月28日,5,5,ACT/ACT,"Pay interest on July 28 every year, and holidays are postponed",5,40
+1720054.IB,BANK OF GUIYANG 4.96% B220811,103.2733,,100,AAA,8/11/2022,Fixed Interest Rate,Simple interest,4.96%,1,8月11日,5,5,ACT/ACT,"Pay interest on August 11 every year, and postpone holidays",5,5
+1721004.IB,ZHUHAI RURAL COMMERCIAL BANK 4.99% B220309,105.724,,100,AA,3/9/2022,Fixed Interest Rate,Simple interest,4.99%,1,3月9日,5,5,ACT/ACT,"Pay interest on March 9 every year, and holidays are postponed",5,5
+1721051.IB,ZHUHAI RURAL COMMERCIAL BANK 5.2% B220919,104.075,,100,AA,9/19/2022,Fixed Interest Rate,Simple interest,5.20%,1,9月19日,5,5,ACT/ACT,"Interest is paid on September 19 each year, holidays are postponed",5,5
+1726001.IB,NANYANG COMMERCIAL BANK (CHINA) 5.03% B220314,104.7646,,100,AAA,3/14/2022,Fixed Interest Rate,Simple interest,5.03%,1,3月14日,5,5,A/365F,"Pay interest on March 14 every year, and holidays are postponed",5,25
+1820013.IB,BANK OF JIANGSU 5.0% B230402,106.8803,2.6786,100,AAA,4/2/2023,Fixed Interest Rate,Simple interest,5.00%,1,4月2日,5,5,ACT/ACT,"Pay interest on April 2 every year, and postpone holidays",5,50
+1820039.IB,NJCB 4.50% B230730,104.7246,2.84,100,AAA,7/30/2023,Fixed Interest Rate,Simple interest,4.50%,1,7月30日,5,5,ACT/ACT,The interest payment holiday is postponed on July 30 every year,5,20
+1820069.IB,NJBK 4.22% B231112,103.5561,,100,AAA,11/12/2023,Fixed Interest Rate,Simple interest,4.22%,1,11月12日,5,5,ACT/ACT,"Pay interest on November 12 every year, and holidays are postponed",5,30
+1820092.IB,CHONGQING THREE GORGES BANK 4.35% B231227,102.1768,,100,AA+,12/27/2023,Fixed Interest Rate,Simple interest,4.35%,1,12月27日,5,5,A/365F,"Pay interest on December 27 every year, and holidays are postponed",5,10
+1821030.IB,HEBEI XINGTAI RURAL COMMERCIAL BANK 5.60% B230815,102.5315,,100,A+,8/15/2023,Fixed Interest Rate,Simple interest,5.60%,1,8月15日,5,5,A/365F,"Pay interest on August 15 each year, and postpone holidays",5,2.5
+1826006.IB,NANYANG COMMERCIAL BANK CHINA 4.40% B231018,103.7732,,100,AAA,10/18/2023,Fixed Interest Rate,Simple interest,4.40%,1,10月18日,5,5,A/365F,"Pay interest on October 18 each year, and holidays are postponed",5,5
+1826007.IB,NANYANG COMMERCIAL BANK CHINA 4.35% B231115,103.4572,,100,AAA,11/15/2023,Fixed Interest Rate,Simple interest,4.35%,1,11月15日,5,5,A/365F,"Pay interest on November 15 every year, and holidays are postponed",5,20
+1920005.IB,BANK OF FUXIN 4.00% B220131,104.2822,,100,AA-,1/31/2022,Fixed Interest Rate,Simple interest,4.00%,1,1月31日,3,3,ACT/ACT,The interest payment holiday is postponed every year on January 31,3,15
+1920006.IB,NJBK 3.42% B220222,103.2452,2.4895,100,AAA,2/22/2022,Fixed Interest Rate,Simple interest,3.42%,1,2月22日,3,3,ACT/ACT,The interest payment holiday will be postponed on February 22 every year,3,70
+1920007.IB,NJBK 3.75% B240222,105.3473,,100,AAA,2/22/2024,Fixed Interest Rate,Simple interest,3.75%,1,2月22日,5,5,ACT/ACT,The interest payment holiday will be postponed on February 22 every year,5,30
+1920008.IB,FUJIAN HAIXIA BANK 3.54% B220225,103.3376,,100,AA+,2/25/2022,Fixed Interest Rate,Simple interest,3.54%,1,2月25日,3,3,A/365F,"Pay interest on February 25 every year, and postpone holidays",3,15
+1920009.IB,BANK OF RIZHAO 3.70% B220228,103.5168,2.5414,100,AA+,2/28/2022,Fixed Interest Rate,Simple interest,3.70%,1,2月28日,3,3,ACT/ACT,"Pay interest on February 28 every year, and postpone holidays",3,30
+1920010.IB,BANK OF LIUZHOU 3.75% B220306,103.5485,,100,AA+,3/6/2022,Fixed Interest Rate,Simple interest,3.75%,1,3月6日,3,3,ACT/ACT,"Interest is paid on March 6 every year, holidays are postponed",3,10
+1920011.IB,HUARONG XIANGJIANG BANK 3.60% B220307,103.3098,,100,AAA,3/7/2022,Fixed Interest Rate,Simple interest,3.60%,1,3月7日,3,3,ACT/ACT,"Interest is paid on March 7 every year, holidays are postponed",3,35
+1920012.IB,BANK OF SHANGRAO 3.70% B220307,103.4604,,100,AA+,3/7/2022,Fixed Interest Rate,Simple interest,3.70%,1,3月7日,3,3,ACT/ACT,"Interest is paid on March 7 every year, holidays are postponed",3,15
+1920013.IB,HUISHANG BANK 3.52% B220308,103.2601,2.4756,100,AAA,3/8/2022,Fixed Interest Rate,Simple interest,3.52%,1,3月8日,3,3,ACT/ACT,The interest payment will be postponed on March 8 every year,3,90
+1920014.IB,HUISHANG BANK 3.80% B240308,105.1651,,100,AAA,3/8/2024,Fixed Interest Rate,Simple interest,3.80%,1,3月8日,5,5,ACT/ACT,The interest payment will be postponed on March 8 every year,5,10
+1920016.IB,ZHEJIANG MINTAI COMMERCIAL BANK 3.80% B220305,103.6519,,100,AA+,3/5/2022,Fixed Interest Rate,Simple interest,3.80%,1,3月5日,3,3,ACT/ACT,"Pay interest on March 5 every year, and postpone holidays",3,15
+1920018.IB,BANK OF HUZHOU 3.75% B220326,103.2968,,100,AA,3/26/2022,Fixed Interest Rate,Simple interest,3.75%,1,3月26日,3,3,ACT/ACT,"March 26, March 26, payment, holiday",3,5
+1920021.IB,BANK OF LANZHOU 3.58% B220404,103.1096,,100,AAA,4/4/2022,Fixed Interest Rate,Simple interest,3.58%,1,4月4日,3,3,A/365F,The interest payment will be postponed on April 4 every year,3,20
+1920022.IB,BANK OF JILIN 3.7% B220404,103.1447,,100,AAA,4/4/2022,Fixed Interest Rate,Simple interest,3.70%,1,4月4日,3,3,A/365F,The interest payment will be postponed on April 4 every year,3,20
+1920023.IB,BANK OF LIUZHOU 3.99% B220412,103.4468,,100,AA+,4/12/2022,Fixed Interest Rate,Simple interest,3.99%,1,4月12日,3,3,ACT/ACT,"Pay interest on April 12 every year, and postpone holidays",3,10
+1920025.IB,BANK OF GUANGZHOU 3.65% B220416,103.16,,100,AAA,4/16/2022,Fixed Interest Rate,Simple interest,3.65%,1,4月16日,3,3,A/365F,"April 16, 16, payment, holiday",3,50
+1920026.IB,BANK OF QINGHAI 3.77% B220412,102.6095,,100,AA+,4/12/2022,Fixed Interest Rate,Simple interest,3.77%,1,4月12日,3,3,A/365F,"Pay interest on April 12 every year, and postpone holidays",3,15
+1920028.IB,LESHAN CITY COMMERCIAL BANK 4.15% B220423,103.455,,100,AA,4/23/2022,Fixed Interest Rate,Simple interest,4.15%,1,4月23日,3,3,A/365F,The interest payment holiday will be postponed on April 23 every year,3,25
+1920029.IB,BANK OF JIANGSU 3.60% B220422,103.0305,2.51,100,AAA,4/22/2022,Fixed Interest Rate,Simple interest,3.60%,1,4月22日,3,3,ACT/ACT,"Interest is paid on April 22 every year, holidays are postponed",3,100
+1920030.IB,HUARONG XIANGJIANG BANK 3.70% B220425,103.0294,,100,AAA,4/25/2022,Fixed Interest Rate,Simple interest,3.70%,1,4月25日,3,3,ACT/ACT,The interest payment will be postponed on April 25 every year,3,30
+1920031.IB,BANK OF XI'AN 3.85% B220424,103.3779,,100,AAA,4/24/2022,Fixed Interest Rate,Simple interest,3.85%,1,4月24日,3,3,ACT/ACT,"Pay interest on April 24 every year, and postpone holidays",3,20
+1920033.IB,ZHEJIANG TAILONG COMMERCIAL BANK 3.88% B220429,103.2367,,100,AAA,4/29/2022,Fixed Interest Rate,Simple interest,3.88%,1,4月29日,3,3,A/365F,The annual interest payment holiday is extended on April 29th,3,30
+1920035.IB,XIAMEN BANK 3.69% B220520,102.9476,,100,AAA,5/20/2022,Fixed Interest Rate,Simple interest,3.69%,1,5月20日,3,3,A/365F,"Interest payment on May 20 every year, holidays will be postponed",3,30
+1920036.IB,BANK OF QINGDAO 3.65% B220522,102.8859,,100,AAA,5/22/2022,Fixed Interest Rate,Simple interest,3.65%,1,5月22日,3,3,ACT/ACT,"Pay interest on May 22 every year, and holidays are postponed",3,30
+1920037.IB,BANK OF QINGDAO 3.98% B240522,103.1485,,100,AAA,5/22/2024,Fixed Interest Rate,Simple interest,3.98%,1,5月22日,5,5,ACT/ACT,"Pay interest on May 22 every year, and holidays are postponed",5,10
+1920038.IB,ZHEJIANG TAILONG COMMERCIAL BANK 3.70% B220524,102.8819,,100,AAA,5/24/2022,Fixed Interest Rate,Simple interest,3.70%,1,5月24日,3,3,A/365F,"Pay interest on May 24 every year, and postpone holidays",3,20
+1920041.IB,BANK OF QINGDAO 3.70% B220531,102.8667,2.5699,100,AAA,5/31/2022,Fixed Interest Rate,Simple interest,3.70%,1,5月31日,3,3,ACT/ACT,"Pay interest on May 31 every year, and holidays are postponed",3,30
+1920042.IB,BANK OF QINGDAO 3.98% B240531,104.8974,,100,AAA,5/31/2024,Fixed Interest Rate,Simple interest,3.98%,1,5月31日,5,5,ACT/ACT,"Pay interest on May 31 every year, and holidays are postponed",5,10
+1920043.IB,BANK OF ZHENGZHOU 3.70% B220605,102.7784,2.5655,100,AAA,6/5/2022,Fixed Interest Rate,Simple interest,3.70%,1,6月5日,3,3,ACT/ACT,The interest payment will be postponed on the 5th of June every year,3,20
+1920044.IB,BANK OF JIAXING 4.23% B220617,103.2051,,100,AA,6/17/2022,Fixed Interest Rate,Simple interest,4.23%,1,6月17日,3,3,A/365F,"Pay interest on June 17 each year, and holidays are postponed",3,10
+1920045.IB,HZBANK 3.60% B220705,102.5347,,100,AAA,7/5/2022,Fixed Interest Rate,Simple interest,3.60%,1,7月5日,3,3,A/365F,"Pay interest on July 5 every year, and holidays are postponed",3,100
+1920047.IB,BANK OF NINGBO 3.46% B220812,102.0648,2.5881,100,AAA,8/12/2022,Fixed Interest Rate,Simple interest,3.46%,1,8月12日,3,3,ACT/ACT,The interest payment holiday will be postponed on August 12 every year,3,60
+1920050.IB,CHINA RESOURCES BANK OF ZHUHAI 3.66% B220828,102.0538,,100,AAA,8/28/2022,Fixed Interest Rate,Simple interest,3.66%,1,8月28日,3,3,A/365F,The interest payment holiday will be postponed on August 28 every year,3,30
+1920052.IB,ZHEJIANG MINTAI COMMERCIAL BANK 4.3% B220829,102.6161,,100,AA+,8/29/2022,Fixed Interest Rate,Simple interest,4.30%,1,8月29日,3,3,ACT/ACT,"Pay interest on August 29 every year, and postpone holidays",3,8
+1920053.IB,XIAMEN BANK 3.69% B220909,102.184,,100,AAA,9/9/2022,Fixed Interest Rate,Simple interest,3.69%,1,9月9日,3,3,A/365F,"Pay interest on September 9 each year, and holidays are postponed",3,15
+1920054.IB,BANK OF GUIYANG 3.55% B220912,101.8994,,100,AAA,9/12/2022,Fixed Interest Rate,Simple interest,3.55%,1,9月12日,3,3,ACT/ACT,"Pay interest on September 12 every year, and holidays are postponed",3,30
+1920056.IB,CHINA RESOURCES BANK OF ZHUHAI 3.55% B220920,101.7423,,100,AAA,9/20/2022,Fixed Interest Rate,Simple interest,3.55%,1,9月20日,3,3,A/365F,"Pay interest on September 20 each year, and postpone holidays",3,5
+1920057.IB,QLB 3.59% B220920,101.8565,,100,AAA,9/20/2022,Fixed Interest Rate,Simple interest,3.59%,1,9月20日,3,3,A/365F,"Pay interest on September 20 each year, and postpone holidays",3,30
+1920060.IB,GUANGXI BEIBU GULF BANK 4.0% B221015,101.9134,,100,AAA,10/15/2022,Fixed Interest Rate,Simple interest,4.00%,1,10月15日,3,3,ACT/ACT,The interest payment holiday will be postponed on October 15 every year,3,20
+1920061.IB,BANK OF NINGBO 3.46% B221016,101.5271,2.59,100,AAA,10/16/2022,Fixed Interest Rate,Simple interest,3.46%,1,10月16日,3,3,ACT/ACT,The interest payment holiday will be postponed on October 16 every year,3,60
+1920062.IB,BANK OF NINGBO 3.80% B241016,103.8841,,100,AAA,10/16/2024,Fixed Interest Rate,Simple interest,3.80%,1,10月16日,5,5,ACT/ACT,The interest payment holiday will be postponed on October 16 every year,5,10
+1920063.IB,NCBANK 3.70% B221022,101.6486,,100,AA+,10/22/2022,Fixed Interest Rate,Simple interest,3.70%,1,10月22日,3,3,ACT/ACT,The interest payment will be postponed on October 22 every year,3,15
+1920064.IB,LESHAN CITY COMMERCIAL BANK 4.30% B221025,101.9058,,100,AA,10/25/2022,Fixed Interest Rate,Simple interest,4.30%,1,10月25日,3,3,ACT/ACT,"Pay interest on October 25 each year, and holidays are postponed",3,10
+1920067.IB,XIAMEN BANK 3.80% B221111,101.7796,,100,AAA,11/11/2022,Fixed Interest Rate,Simple interest,3.80%,1,11月11日,3,3,A/365F,The interest payment on November 11 of each year will be postponed,3,15
+1920068.IB,BANK OF CHANGSHA 3.64% B221111,101.5969,2.5928,100,AAA,11/11/2022,Fixed Interest Rate,Simple interest,3.64%,1,11月11日,3,3,ACT/ACT,The interest payment on November 11 of each year will be postponed,3,35
+1920069.IB,CHINESE MERCANTILE BANK 3.85% B221113,101.7804,,100,AAA,11/13/2022,Fixed Interest Rate,Simple interest,3.85%,1,11月13日,3,3,ACT/ACT,"Pay interest on November 13 every year, and holidays are postponed",3,40
+1920072.IB,NCBANK 3.80% B221126,101.6057,,100,AA+,11/26/2022,Fixed Interest Rate,Simple interest,3.80%,1,11月26日,3,3,ACT/ACT,The interest payment will be postponed on November 26 every year,3,10
+1920075.IB,GUANGXI BEIBU GULF BANK 4.0% B221129,101.383,,100,AAA,11/29/2022,Fixed Interest Rate,Simple interest,4.00%,1,11月29日,3,3,ACT/ACT,"Pay interest on November 29 every year, and holidays are postponed",3,10
+1920077.IB,BANK OF XI'AN 3.56% B221128,101.2848,,100,AAA,11/28/2022,Fixed Interest Rate,Simple interest,3.56%,1,11月28日,3,3,ACT/ACT,"November 28th, payment, holiday",3,20
+1920080.IB,BANK OF QINGDAO 3.45% B221205,101.2118,,100,AAA,12/5/2022,Fixed Interest Rate,Simple interest,3.45%,1,12月5日,3,3,ACT/ACT,The interest payment will be postponed on December 5 every year,3,30
+1920081.IB,BANK OF QINGDAO 3.84% B241205,102.616,,100,AAA,12/5/2024,Fixed Interest Rate,Simple interest,3.84%,1,12月5日,5,5,ACT/ACT,The interest payment will be postponed on December 5 every year,5,10
+1920083.IB,BANK OF CHENGDU 3.45% B221216,101.0495,,100,AAA,12/16/2022,Fixed Interest Rate,Simple interest,3.45%,1,12月16日,3,3,A/365F,"Pay interest on December 16 each year, and holidays are postponed",3,5
+1920084.IB,CHINESE MERCANTILE BANK 3.80% B221212,101.3689,,100,AAA,12/12/2022,Fixed Interest Rate,Simple interest,3.80%,1,12月12日,3,3,ACT/ACT,"Pay interest on December 12 every year, and holidays are postponed",3,30
+1920086.IB,BANK OF QINGDAO 3.42% B221216,101.1306,2.6177,100,AAA,12/16/2022,Fixed Interest Rate,Simple interest,3.42%,1,12月16日,3,3,ACT/ACT,"Pay interest on December 16 each year, and holidays are postponed",3,30
+1920087.IB,BANK OF QINGDAO 3.80% B241216,102.8491,3,100,AAA,12/16/2024,Fixed Interest Rate,Simple interest,3.80%,1,12月16日,5,5,ACT/ACT,"Pay interest on December 16 each year, and holidays are postponed",5,10
+1920089.IB,FUJIAN HAIXIA BANK 3.90% B221220,101.3744,,100,AA+,12/20/2022,Fixed Interest Rate,Simple interest,3.90%,1,12月20日,3,3,A/365F,"Pay interest on December 20 every year, and postpone holidays",3,20
+1920090.IB,BANK OF TIANJIN 3.88% B221227,101.2958,,100,AAA,12/27/2022,Fixed Interest Rate,Simple interest,3.88%,1,12月27日,3,3,ACT/ACT,"Pay interest on December 27 every year, and holidays are postponed",3,50
+1921002.IB,DEQING RURAL COMMERCIAL BANK 3.9% B220130,103.9499,,100,AA,1/30/2022,Fixed Interest Rate,Simple interest,3.90%,1,1月30日,3,3,ACT/ACT,"Interest is paid on January 30 each year, holidays are postponed",3,2
+1921003.IB,TIANTAI RC BANK 5.0% B220301,105.2169,,100,AA-,3/1/2022,Fixed Interest Rate,Simple interest,5.00%,1,3月1日,3,3,ACT/ACT,"Interest is paid on March 1 each year, and holidays are postponed",3,1
+1921005.IB,QRCB 3.64% B220313,103.3598,,100,AAA,3/13/2022,Fixed Interest Rate,Simple interest,3.64%,1,3月13日,3,3,ACT/ACT,"Pay interest on March 13 every year, and postpone holidays",3,5
+1921007.IB,YINZHOU BANK 3.67% B220325,103.3713,,100,AA+,3/25/2022,Fixed Interest Rate,Simple interest,3.67%,1,3月25日,3,3,ACT/ACT,"Pay interest on March 25 every year, and postpone holidays",3,5
+1921008.IB,NANHAI RURAL COMMERCIAL BANK 3.62% B220321,103.2523,,100,AAA,3/21/2022,Fixed Interest Rate,Simple interest,3.62%,1,3月21日,3,3,ACT/ACT,"Pay interest on March 21 every year, and holidays are postponed",3,6
+1921010.IB,DONGYANG RURAL COMMERCIAL BANK 3.85% B220322,103.4877,,100,AA,3/22/2022,Fixed Interest Rate,Simple interest,3.85%,1,3月22日,3,3,ACT/ACT,"Interest is paid on March 22 every year, holidays are postponed",3,1
+1921012.IB,URCB 3.62% B220328,103.2548,,100,AAA,3/28/2022,Fixed Interest Rate,Simple interest,3.62%,1,3月28日,3,3,ACT/ACT,"Pay interest on March 28 every year, and postpone holidays",3,15
+1921014.IB,SIHUI RURAL COMMERCIAL BANK 4.30% B220329,103.5814,,100,A+,3/29/2022,Fixed Interest Rate,Simple interest,4.30%,1,3月29日,3,3,ACT/ACT,"Pay interest on March 29 every year, and holidays are postponed",3,2
+1921018.IB,URCB 3.78% B220429,102.833,,100,AAA,4/29/2022,Fixed Interest Rate,Simple interest,3.78%,1,4月29日,3,3,ACT/ACT,The annual interest payment holiday is extended on April 29th,3,7
+1921019.IB,URCB 4.19% B240429,105.4731,,100,AAA,4/29/2024,Fixed Interest Rate,Simple interest,4.19%,1,4月29日,5,5,ACT/ACT,The annual interest payment holiday is extended on April 29th,5,8
+1921020.IB,YIWU RURAL COMMERCIAL BANK 3.85% B220426,103.1681,,100,AA,4/26/2022,Fixed Interest Rate,Simple interest,3.85%,1,4月26日,3,3,ACT/ACT,The interest payment will be postponed on April 26 every year,3,8
+1921023.IB,CANGNAN RURAL COMMERCIAL BANK 3.89% B220712,104.5093,,100,AA,7/12/2022,Fixed Interest Rate,Simple interest,3.89%,1,7月12日,3,3,ACT/ACT,"Interest shall be paid on July 12 every year, and holidays shall be postponed accordingly",3,7
+1921026.IB,URCB 3.59% B220816,102.1339,,100,AAA,8/16/2022,Fixed Interest Rate,Simple interest,3.59%,1,8月16日,3,3,ACT/ACT,"Pay interest on August 16 each year, and holidays are postponed",3,3
+1921029.IB,CHANGSHU BANK 3.55% B220829,101.6322,,100,AA+,8/29/2022,Fixed Interest Rate,Simple interest,3.55%,1,8月29日,3,3,ACT/ACT,"Pay interest on August 29 every year, and postpone holidays",3,10
+1921034.IB,SHUNDE RURAL COMMERCIAL BANK 3.45% B221008,101.8234,,100,AAA,10/8/2022,Fixed Interest Rate,Simple interest,3.45%,1,10月8日,3,3,ACT/ACT,"October 8th annual interest payments, extended holidays",3,10
+1921035.IB,CANGNAN RURAL COMMERCIAL BANK 3.79% B221024,100.6874,,100,AA,10/24/2022,Fixed Interest Rate,Simple interest,3.79%,1,10月24日,3,3,ACT/ACT,"Interest is paid on October 24 every year, holidays are postponed",3,8
+1921039.IB,JINGJIANG RURAL COMMERCIAL BANK 4.2000% B221119,100.4434,,100,AA-,11/19/2022,Fixed Interest Rate,Simple interest,4.20%,1,11月19日,3,3,ACT/ACT,"Pay interest on November 19 every year, and holidays are postponed",3,3
+1921042.IB,URCB 3.59% B221209,101.1679,2.85,100,AAA,12/9/2022,Fixed Interest Rate,Simple interest,3.59%,1,12月9日,3,3,ACT/ACT,The interest payment will be postponed on December 9 every year,3,3
+1921044.IB,XINGTAI RURAL COMMERCIAL BANK 4.6% B241205,100.6679,,100,A+,12/5/2024,Fixed Interest Rate,Simple interest,4.60%,1,12月5日,5,5,A/365F,The interest payment will be postponed on December 5 every year,5,2.5
+1921045.IB,YINGQUAN RURAL COMMERCIAL BANK 4.60% B221210,100.8521,,100,AA-,12/10/2022,Fixed Interest Rate,Simple interest,4.60%,1,12月10日,3,3,ACT/ACT,The interest payment will be postponed on December 10 every year,3,2
+1921046.IB,CHANGSHA RURAL COMMERCIAL BANK 3.70% B221212,101.1291,2.7347,100,AA+,12/12/2022,Fixed Interest Rate,Simple interest,3.70%,1,12月12日,3,3,ACT/ACT,"Pay interest on December 12 every year, and holidays are postponed",3,35
+1921047.IB,QRCB 3.50% B221219,101.2351,2.6204,100,AAA,12/19/2022,Fixed Interest Rate,Simple interest,3.50%,1,12月19日,3,3,ACT/ACT,"Pay interest on December 19 each year, and holidays are postponed",3,30
+1921050.IB,YINZHOU BANK 3.62% B221224,101.0439,,100,AA+,12/24/2022,Fixed Interest Rate,Simple interest,3.62%,1,12月24日,3,3,ACT/ACT,"Pay interest on December 24 every year, and postpone holidays",3,25
+1921051.IB,CHANGXING RC BANK 3.69% B221227,101.5137,,100,AA,12/27/2022,Fixed Interest Rate,Simple interest,3.69%,1,12月27日,3,3,ACT/ACT,"Pay interest on December 27 every year, and holidays are postponed",3,3
+1926001.IB,BEA (CHINA) 3.65% B220311,103.3633,2.7563,100,AAA,3/11/2022,Fixed Interest Rate,Simple interest,3.65%,1,3月11日,3,3,A/365F,"Interest payments on March 11 each year, holidays will be postponed",3,25
+1926004.IB,HSBC BANK(CHINA) 3.74% B220618,102.7313,,100,AAA,6/18/2022,Fixed Interest Rate,Simple interest,3.74%,1,6月18日,3,3,ACT/ACT,"Pay interest on June 18 each year, and holidays are postponed",3,40
+1926005.IB,HSBC BANK(CHINA) 3.52% B220912,101.8008,,100,AAA,9/12/2022,Fixed Interest Rate,Simple interest,3.52%,1,9月12日,3,3,ACT/ACT,"Pay interest on September 12 every year, and holidays are postponed",3,40
+1928005.IB,SPD BANK 3.50% B220327,103.095,2.4799,100,AAA,3/27/2022,Fixed Interest Rate,Simple interest,3.50%,1,3月27日,3,3,ACT/ACT,"Pay interest on March 27 every year, and holidays are postponed",3,500
+1928015.IB,CMB 3.45% B220709,102.6438,2.5271,100,AAA,7/9/2022,Fixed Interest Rate,Simple interest,3.45%,1,7月9日,3,3,ACT/ACT,"Pay interest on July 9 every year, and holidays are postponed",3,300
+1928017.IB,INDUSTRIAL BANK 3.55% B220718,102.3889,2.5031,100,AAA,7/18/2022,Fixed Interest Rate,Simple interest,3.55%,1,7月18日,3,3,A/365F,"Pay interest on July 18 every year, and holidays are postponed",3,200
+1928027.IB,CZBANK 3.42% B220918,101.7718,2.5895,100,AAA,9/18/2022,Fixed Interest Rate,Simple interest,3.42%,1,9月18日,3,3,ACT/ACT,"Pay interest on September 18 each year, and holidays are postponed",3,50
+1928030.IB,CMB 3.33% B220926,101.7024,2.5396,100,AAA,9/26/2022,Fixed Interest Rate,Simple interest,3.33%,1,9月26日,3,3,ACT/ACT,The interest payment holiday will be postponed on September 26 every year,3,200
+1928034.IB,BANKCOMM 3.35% B221127,101.8258,2.5426,100,AAA,11/27/2022,Fixed Interest Rate,Simple interest,3.35%,1,11月27日,3,3,ACT/ACT,The interest payment holiday will be postponed on November 27 every year,3,500
+1928037.IB,BANKCOMM 3.35% B221213,101.1916,2.5524,100,AAA,12/13/2022,Fixed Interest Rate,Simple interest,3.35%,1,12月13日,3,3,ACT/ACT,"Pay interest on December 13 each year, and postpone holidays",3,400
+2020003.IB,BANK OF TIANJIN 3.73% B230122,100.774,,100,AAA,1/22/2023,Fixed Interest Rate,Simple interest,3.73%,1,1月22日,3,3,ACT/ACT,"Pay interest on January 22 every year, and holidays are postponed",3,50
+2020004.IB,BANK OF CHANGSHA 3.06% B230227,103.2456,2.6644,100,AAA,2/27/2023,Fixed Interest Rate,Simple interest,3.06%,1,2月27日,3,3,ACT/ACT,"Pay interest on February 27 every year, and postpone holidays",3,15
+2020005.IB,BANK OF NINGBO 2.92% B230306,102.708,2.67,100,AAA,3/6/2023,Fixed Interest Rate,Simple interest,2.92%,1,3月6日,3,3,ACT/ACT,"Interest is paid on March 6 every year, holidays are postponed",3,55
+2020006.IB,BANK OF NINGBO 3.10% B250306,102.9026,,100,AAA,3/6/2025,Fixed Interest Rate,Simple interest,3.10%,1,3月6日,5,5,ACT/ACT,"Interest is paid on March 6 every year, holidays are postponed",5,15
+2020007.IB,BOB 2.85% B230316,102.8008,2.6499,100,AAA,3/16/2023,Fixed Interest Rate,Simple interest,2.85%,1,3月16日,3,3,ACT/ACT,"Interest is paid on March 16 every year, holidays are postponed",3,300
+2020008.IB,BOB 3.10% B250316,103.7697,2.94,100,AAA,3/16/2025,Fixed Interest Rate,Simple interest,3.10%,1,3月16日,5,5,ACT/ACT,"Interest is paid on March 16 every year, holidays are postponed",5,100
+2020010.IB,BANK OF SUZHOU 2.92% B230313,102.6997,,100,AAA,3/13/2023,Fixed Interest Rate,Simple interest,2.92%,1,3月13日,3,3,ACT/ACT,"Pay interest on March 13 every year, and postpone holidays",3,15
+2020011.IB,BANK OF QINGHAI 3.80% B230318,102.4854,,100,AA+,3/18/2023,Fixed Interest Rate,Simple interest,3.80%,1,3月18日,3,3,A/365F,"Pay interest on March 18 every year, and postpone holidays",3,30
+2020014.IB,GUANGXI BEIBU GULF BANK 3.80% B230326,104.0095,,100,AAA,3/26/2023,Fixed Interest Rate,Simple interest,3.80%,1,3月26日,3,3,ACT/ACT,"March 26, March 26, payment, holiday",3,15
+2020015.IB,BANK OF LIUZHOU 3.80% B230331,103.4076,,100,AA+,3/31/2023,Fixed Interest Rate,Simple interest,3.80%,1,3月31日,3,3,ACT/ACT,"Interest is paid on March 31 each year, holidays are postponed",3,10
+2020017.IB,CHINA RESOURCES BANK OF ZHUHAI 2.80% B230410,102.318,,100,AAA,4/10/2023,Fixed Interest Rate,Simple interest,2.80%,1,4月10日,3,3,A/365F,"Pay interest on April 10 every year, and postpone holidays",3,30
+2020018.IB,BANK OF NINGBO 2.40% B230413,101.7464,,100,AAA,4/13/2023,Fixed Interest Rate,Simple interest,2.40%,1,4月13日,3,3,ACT/ACT,"Pay interest on April 13 every year, and postpone holidays",3,50
+2020019.IB,JINSHANG BANK 3.00% B230417,102.3584,,100,AAA,4/17/2023,Fixed Interest Rate,Simple interest,3.00%,1,4月17日,3,3,ACT/ACT,The interest payment holiday is postponed on April 17 every year,3,40
+2020024.IB,BANK OF GANZHOU 3.00% B230424,102.2754,,100,AA+,4/24/2023,Fixed Interest Rate,Simple interest,3.00%,1,4月24日,3,3,ACT/ACT,"Pay interest on April 24 every year, and postpone holidays",3,15
+2020025.IB,HUISHANG BANK 2.30% B230427,101.4659,,100,AAA,4/27/2023,Fixed Interest Rate,Simple interest,2.30%,1,4月27日,3,3,ACT/ACT,"April 27, April 27, payment, holiday",3,100
+2020026.IB,CHANG'AN BANK 2.95% B230429,102.2474,,100,AA+,4/29/2023,Fixed Interest Rate,Simple interest,2.95%,1,4月29日,3,3,A/365F,The annual interest payment holiday is extended on April 29th,3,30
+2020027.IB,LESHAN CITY COMMERCIAL BANK 3.75% B230430,102.7945,,100,AA,4/30/2023,Fixed Interest Rate,Simple interest,3.75%,1,4月30日,3,3,A/365F,"Interest is paid on April 30 every year, holidays are postponed",3,15
+2020028.IB,BANK OF WEIFANG 3.10% B230506,101.6526,,100,AA+,5/6/2023,Fixed Interest Rate,Simple interest,3.10%,1,5月6日,3,3,ACT/ACT,The interest payment holiday is postponed on May 6 every year,3,30
+2020032.IB,BANK OF LIUZHOU 3.69% B230529,102.95,,100,AA+,5/29/2023,Fixed Interest Rate,Simple interest,3.69%,1,5月29日,3,3,ACT/ACT,The interest payment on May 29 of each year will be postponed,3,10
+2020040.IB,BANK OF QUANZHOU 3.48% B230710,100.5556,,100,AA+,7/10/2023,Fixed Interest Rate,Simple interest,3.48%,1,7月10日,3,3,ACT/ACT,The interest payment holiday will be postponed on July 10 every year,3,10
+2020041.IB,FUJIAN HAIXIA BANK 3.85% B230720,103.0718,,100,AA+,7/20/2023,Fixed Interest Rate,Simple interest,3.85%,1,7月20日,3,3,A/365F,"Pay interest on July 20 every year, and holidays are postponed",3,25
+2020045.IB,BOB 3.40% B230820,102.5245,2.76,100,AAA,8/20/2023,Fixed Interest Rate,Simple interest,3.40%,1,8月20日,3,3,ACT/ACT,The interest payment holiday will be postponed on August 20 every year,3,60
+2020047.IB,ZHEJIANG TAILONG COMMERCIAL BANK 3.75% B230827,102.6355,,100,AAA,8/27/2023,Fixed Interest Rate,Simple interest,3.75%,1,8月27日,3,3,A/365F,"Pay interest on August 27 every year, and postpone holidays",3,30
+2020049.IB,BANK OF LUOYANG 3.68% B230901,102.6821,,100,AA+,9/1/2023,Fixed Interest Rate,Simple interest,3.68%,1,9月1日,3,3,ACT/ACT,The interest payment holiday will be postponed on September 1 every year,3,30
+2020053.IB,BANK OF DONGGUAN 3.79% B230911,103.3919,,100,AAA,9/11/2023,Fixed Interest Rate,Simple interest,3.79%,1,9月11日,3,3,ACT/ACT,"Pay interest on September 11 every year, and holidays are postponed",3,40
+2020057.IB,BANK OF CHANGSHA 3.75% B230915,103.0235,,100,AAA,9/15/2023,Fixed Interest Rate,Simple interest,3.75%,1,9月15日,3,3,ACT/ACT,The interest payment holiday is postponed on September 15 every year,3,20
+2020059.IB,ZHEJIANG CHOUZHOU COMMERCIAL BANK 4.10% B230921,102.266,,100,AA+,9/21/2023,Fixed Interest Rate,Simple interest,4.10%,1,9月21日,3,3,ACT/ACT,The interest payment holiday is postponed on September 21 every year,3,10
+2020072.IB,BANK OF CHONGQING 3.73% B231104,102.4187,,100,AAA,11/4/2023,Fixed Interest Rate,Simple interest,3.73%,1,11月4日,3,3,A/365F,"Pay interest on November 4 every year, and postpone holidays",3,20
+2020076.IB,QLB 3.8% B231120,102.7533,,100,AAA,11/20/2023,Fixed Interest Rate,Simple interest,3.80%,1,11月20日,3,3,ACT/ACT,"Pay interest on November 20 every year, and postpone holidays",3,40
+2020077.IB,XIAMEN INTERNATIONAL BANK 3.59% B231221,102.1067,,100,AAA,12/21/2023,Fixed Interest Rate,Simple interest,3.59%,1,12月21日,3,3,A/365F,The interest payment will be postponed on December 21 every year,3,10
+2020079.IB,BANK OF GANZHOU 3.89% B231126,102.1608,,100,AA+,11/26/2023,Fixed Interest Rate,Simple interest,3.89%,1,11月26日,3,3,ACT/ACT,The interest payment will be postponed on November 26 every year,3,15
+2020084.IB,20 Fudian Bank Sannong Bond,100.9798,,100,AA+,12/14/2023,Fixed Interest Rate,Simple interest,3.98%,1,12月14日,3,3,A/365F,The interest payment holiday will be postponed on December 14 every year,3,10
+2020086.IB,BANK OF CHANGSHA 3.70% B231217,102.3247,2.83,100,AAA,12/17/2023,Fixed Interest Rate,Simple interest,3.70%,1,12月17日,3,3,ACT/ACT,"Interest is paid on December 17 each year, holidays are postponed",3,40
+2020089.IB,HKB 3.8% B231223,100.9632,3.38,100,AA+,12/23/2023,Fixed Interest Rate,Simple interest,3.80%,1,12月23日,3,3,A/365F,The interest payment holiday is postponed on December 23 every year,3,10
+2021001.IB,CHONGQING RURAL COMMERCIAL BANK 3.20% B230113,100.6316,,100,AAA,1/13/2023,Fixed Interest Rate,Simple interest,3.20%,1,1月13日,3,3,A/365F,"Pay interest on January 13 every year, and holidays are postponed",3,20
+2021003.IB,CHANGSHU BANK 2.96% B230310,102.6405,,100,AA+,3/10/2023,Fixed Interest Rate,Simple interest,2.96%,1,3月10日,3,3,ACT/ACT,"Interest is paid on March 10 every year, holidays are postponed",3,10
+2021004.IB,YINGQUAN RURAL COMMERCIAL BANK 4.5% B230305,104.0438,,100,AA-,3/5/2023,Fixed Interest Rate,Simple interest,4.50%,1,3月5日,3,3,ACT/ACT,"Pay interest on March 5 every year, and postpone holidays",3,3
+2021005.IB,QRCB 3.03% B230309,102.9296,,100,AAA,3/9/2023,Fixed Interest Rate,Simple interest,3.03%,1,3月9日,3,3,ACT/ACT,"Pay interest on March 9 every year, and holidays are postponed",3,30
+2021007.IB,DRCB 2.94% B230312,102.0984,,100,AAA,3/12/2023,Fixed Interest Rate,Simple interest,2.94%,1,3月12日,3,3,ACT/ACT,"Interest is paid on March 12 every year, holidays are postponed",3,20
+2021008.IB,CHONGQING RURAL COMMERCIAL BANK 2.89% B230316,102.6325,2.79,100,AAA,3/16/2023,Fixed Interest Rate,Simple interest,2.89%,1,3月16日,3,3,A/365F,"Interest is paid on March 16 every year, holidays are postponed",3,80
+2021010.IB,CHANGSHA RURAL COMMERCIAL BANK 3.04% B230319,102.6697,,100,AA+,3/19/2023,Fixed Interest Rate,Simple interest,3.04%,1,3月19日,3,3,ACT/ACT,"Interest is paid on March 19 every year, holidays are postponed",3,15
+2021013.IB,XINYU RURAL COMMERCIAL BANK 4.00% B230428,100.389,,100,A+,4/28/2023,Fixed Interest Rate,Simple interest,4.00%,1,4月28日,3,3,ACT/ACT,The annual interest payment holiday will be postponed on April 28th,3,2.8
+2021015.IB,MAANSHAN RURAL COMMERCIAL BANK 3.90% B230630,102.2545,,100,AA,6/30/2023,Fixed Interest Rate,Simple interest,3.90%,1,6月30日,3,3,A/365F,"Pay interest on June 30 every year, and postpone holidays",3,4
+2021023.IB,XIAMEN RURAL COMMERCIAL BANK 3.69% B230811,102.2799,,100,AA+,8/11/2023,Fixed Interest Rate,Simple interest,3.69%,1,8月11日,3,3,ACT/ACT,"Pay interest on August 11 every year, and postpone holidays",3,10
+2021025.IB,DRCB 3.62% B230914,102.6191,,100,AAA,9/14/2023,Fixed Interest Rate,Simple interest,3.62%,1,9月14日,3,3,ACT/ACT,The interest payment holiday will be postponed on September 14 every year,3,20
+2021027.IB,ZRCBANK 3.8% B230922,102.7747,,100,AA+,9/22/2023,Fixed Interest Rate,Simple interest,3.80%,1,9月22日,3,3,ACT/ACT,The interest payment will be postponed on September 22 every year,3,15
+2021030.IB,SRCB 3.63% B231028,102.3363,,100,AAA,10/28/2023,Fixed Interest Rate,Simple interest,3.63%,1,10月28日,3,3,ACT/ACT,"Pay interest on October 28 every year, and postpone holidays",3,80
+2021031.IB,CHONGQING RURAL COMMERCIAL BANK B231109,102.112,,100,AAA,11/9/2023,Fixed Interest Rate,Simple interest,3.60%,1,11月9日,3,3,ACT/ACT,The interest payment will be postponed on November 9 every year,3,20
+2021032.IB,JRCB 3.82% B231112,102.0672,,100,AA+,11/12/2023,Fixed Interest Rate,Simple interest,3.82%,1,11月12日,3,3,ACT/ACT,"Pay interest on November 12 every year, and holidays are postponed",3,10
+2021033.IB,SRCB 3.75% B231124,102.4905,2.79,100,AAA,11/24/2023,Fixed Interest Rate,Simple interest,3.75%,1,11月24日,3,3,ACT/ACT,"Pay interest on November 24 every year, and holidays are postponed",3,20
+2021034.IB,XIAOSHAN RURAL COMMERCIAL BANK 3.85% B231125,101.8601,,100,AA+,11/25/2023,Fixed Interest Rate,Simple interest,3.85%,1,11月25日,3,3,A/365F,"Interest is paid on November 25 every year, holidays are postponed",3,10
+2021036.IB,DRCB 3.75% B231201,102.3878,2.88,100,AAA,12/1/2023,Fixed Interest Rate,Simple interest,3.75%,1,12月1日,3,3,ACT/ACT,The interest payment on December 1 of each year will be postponed,3,10
+2021040.IB,WHRCB 3.8% B231217,101.3257,,100,AA+,12/17/2023,Fixed Interest Rate,Simple interest,3.80%,1,12月17日,3,3,ACT/ACT,"Interest is paid on December 17 each year, holidays are postponed",3,10
+2026001.IB,FUBON BANK 3.20% B230324,102.1407,,100,AAA,3/24/2023,Fixed Interest Rate,Simple interest,3.20%,1,3月24日,3,3,A/365F,The interest payment will be postponed on March 24 every year,3,10
+2026002.IB,HSBC BANK(CHINA) 2.95% B230604,101.9329,2.8143,100,AAA,6/4/2023,Fixed Interest Rate,Simple interest,2.95%,1,6月4日,3,3,ACT/ACT,The interest payment will be postponed on June 4 every year,3,30
+2026003.IB,HSBC BANK(CHINA) 3.75% B230923,102.8222,2.8493,100,AAA,9/23/2023,Fixed Interest Rate,Simple interest,3.75%,1,9月23日,3,3,ACT/ACT,The interest payment holiday will be postponed every September 23,3,30
+2026004.IB,FUBON BANK 3.92% B231201,101.208,,100,AAA,12/1/2023,Fixed Interest Rate,Simple interest,3.92%,1,12月1日,3,3,A/365F,The interest payment on December 1 of each year will be postponed,3,10
+2026005.IB,NANYANG COMMERCIAL BANK CHINA 4.08% B231221,101.7472,,100,AAA,12/21/2023,Fixed Interest Rate,Simple interest,4.08%,1,12月21日,3,3,ACT/ACT,The interest payment will be postponed on December 21 every year,3,25
+2026006.IB,NANYANG COMMERCIAL BANK CHINA 4.33% B251221,100.4389,,100,AAA,12/21/2025,Fixed Interest Rate,Simple interest,4.33%,1,12月21日,5,5,ACT/ACT,The interest payment will be postponed on December 21 every year,5,5
+2028001.IB,CBHB 3.47% B230115,100.7095,,100,AAA,1/15/2023,Fixed Interest Rate,Simple interest,3.47%,1,1月15日,3,3,A/365F,"Pay interest on January 15 each year, and holidays are postponed",3,100
+2028002.IB,CBHB 3.24% B230219,103.2903,,100,AAA,2/19/2023,Fixed Interest Rate,Simple interest,3.24%,1,2月19日,3,3,A/365F,"Pay interest on February 19 every year, and holidays are postponed",3,80
+2028004.IB,CZBANK 2.95% B230305,103.0245,2.67,100,AAA,3/5/2023,Fixed Interest Rate,Simple interest,2.95%,1,3月5日,3,3,ACT/ACT,"Pay interest on March 5 every year, and postpone holidays",3,100
+2028005.IB,BANK OF CHINA 2.65% B230312,102.4765,2.635,100,AAA,3/12/2023,Fixed Interest Rate,Simple interest,2.65%,1,3月12日,3,3,A/365F,"Interest is paid on March 12 every year, holidays are postponed",3,100
+2028007.IB,CNCB 2.75% B230318,102.7025,2.5609,100,AAA,3/18/2023,Fixed Interest Rate,Simple interest,2.75%,1,3月18日,3,3,ACT/ACT,"Pay interest on March 18 every year, and postpone holidays",3,300
+2028008.IB,CMBC 2.75% B230320,102.4006,2.95,100,AAA,3/20/2023,Fixed Interest Rate,Simple interest,2.75%,1,3月20日,3,3,A/365F,"Pay interest on March 20 every year, and postpone holidays",3,200
+2028009.IB,CZBANK 2.50% B230410,101.9528,2.71,100,AAA,4/10/2023,Fixed Interest Rate,Simple interest,2.50%,1,4月10日,3,3,ACT/ACT,"Pay interest on April 10 every year, and postpone holidays",3,150
+2028010.IB,HUAXIA BANK 2.08% B230417,100.8089,2.6157,100,AAA,4/17/2023,Fixed Interest Rate,Simple interest,2.08%,1,4月17日,3,3,ACT/ACT,The interest payment holiday is postponed on April 17 every year,3,100
+2028011.IB,AGRICULTURAL BANK OF CHINA 1.99% B230421,100.5621,2.6311,100,AAA,4/21/2023,Fixed Interest Rate,Simple interest,1.99%,1,4月21日,3,3,ACT/ACT,"Pay interest on April 21 every year, and holidays are postponed",3,200
+2028012.IB,SPD BANK 2.08% B230429,101.0151,2.6411,100,AAA,4/29/2023,Fixed Interest Rate,Simple interest,2.08%,1,4月29日,3,3,ACT/ACT,The annual interest payment holiday is extended on April 29th,3,500
+2028015.IB,INDUSTRIAL BANK 2.17% B230506,101.0647,2.6641,100,AAA,5/6/2023,Fixed Interest Rate,Simple interest,2.17%,1,5月6日,3,3,ACT/ACT,The interest payment holiday is postponed on May 6 every year,3,230
+2028016.IB,INDUSTRIAL BANK 2.67% B250506,101.2571,2.8524,100,AAA,5/6/2025,Fixed Interest Rate,Simple interest,2.67%,1,5月6日,5,5,ACT/ACT,The interest payment holiday is postponed on May 6 every year,5,70
+2028019.IB,PAB 2.3% B230526,101.2895,2.6322,100,AAA,5/26/2023,Fixed Interest Rate,Simple interest,2.30%,1,5月26日,3,3,ACT/ACT,"Pay interest on May 26 each year, and holidays are postponed",3,300
+2028020.IB,INDUSTRIAL BANK 2.58% B230527,101.6922,2.6326,100,AAA,5/27/2023,Fixed Interest Rate,Simple interest,2.58%,1,5月27日,3,3,ACT/ACT,"May 27, 27, payment, holiday",3,220
+2028021.IB,INDUSTRIAL BANK 2.95% B250527,102.217,2.8598,100,AAA,5/27/2025,Fixed Interest Rate,Simple interest,2.95%,1,5月27日,5,5,ACT/ACT,"May 27, 27, payment, holiday",5,50
+2028027.IB,BANK OF CHINA 3.15% B230805,102.3937,2.6463,100,AAA,8/5/2023,Fixed Interest Rate,Simple interest,3.15%,1,8月5日,3,3,A/365F,"Pay interest on August 5 every year, and postpone holidays",3,100
+2028028.IB,HUAXIA BANK 3.19% B230810,102.9414,2.63,100,AAA,8/10/2023,Fixed Interest Rate,Simple interest,3.19%,1,8月10日,3,3,ACT/ACT,"Pay interest on August 10 every year, and postpone holidays",3,200
+2028029.IB,BANKCOMM 3.18% B230807,102.3911,2.6468,100,AAA,8/7/2023,Fixed Interest Rate,Simple interest,3.18%,1,8月7日,3,3,ACT/ACT,"Pay interest on August 7 every year, and holidays are postponed",3,500
+2028030.IB,INDUSTRIAL BANK 3.45% B230813,102.8948,2.63,100,AAA,8/13/2023,Fixed Interest Rate,Simple interest,3.45%,1,8月13日,3,3,ACT/ACT,"Pay interest on August 13 every year, and postpone holidays",3,230
+2028031.IB,CBHB 3.55% B230820,101.9538,3.1397,100,AAA,8/20/2023,Fixed Interest Rate,Simple interest,3.55%,1,8月20日,3,3,ACT/ACT,The interest payment holiday will be postponed on August 20 every year,3,100
+2028036.IB,ICBC 3.37% B230917,102.5215,2.6569,100,AAA,9/17/2023,Fixed Interest Rate,Simple interest,3.37%,1,9月17日,3,3,A/365F,The interest payment will be postponed on September 17 every year,3,100
+2028043.IB,CCB 3.5% B231029,102.9691,2.6669,100,AAA,10/29/2023,Fixed Interest Rate,Simple interest,3.50%,1,10月29日,3,3,ACT/ACT,The interest payment holiday will be postponed on October 29 every year,3,200
+2028046.IB,CMB B231110,102.1537,2.6855,100,AAA,11/10/2023,Fixed Interest Rate,Simple interest,3.48%,1,11月10日,3,3,ACT/ACT,"Pay interest on November 10 every year, and holidays are postponed",3,100
+2028047.IB,BANKCOMM 3.50% B231113,102.2618,2.6507,100,AAA,11/13/2023,Fixed Interest Rate,Simple interest,3.50%,1,11月13日,3,3,ACT/ACT,"Pay interest on November 13 every year, and holidays are postponed",3,400
+2028054.IB,HUAXIA BANK 3.54% B231218,102.0866,2.7176,100,AAA,12/18/2023,Fixed Interest Rate,Simple interest,3.54%,1,12月18日,3,3,ACT/ACT,"Pay interest on December 18 each year, and holidays are postponed",3,330
+2120003.IB,BANK OF CHONGQING 3.5% B240126,101.0021,,100,AAA,1/26/2024,Fixed Interest Rate,Simple interest,3.50%,1,1月26日,3,3,A/365F,"Interest is paid on January 26 every year, holidays are postponed",3,20
+2120004.IB,BANK OF SUZHOU 3.55% B240129,104.6362,,100,AAA,1/29/2024,Fixed Interest Rate,Simple interest,3.55%,1,1月29日,3,3,ACT/ACT,The interest payment holiday is postponed on January 29 each year,3,10
+2120005.IB,BOB 3.5% B240205,105.073,2.82,100,AAA,2/5/2024,Fixed Interest Rate,Simple interest,3.50%,1,2月5日,3,3,ACT/ACT,"Interest shall be paid on February 5 every year, and holidays shall be postponed accordingly",3,80
+2120009.IB,ZY BANK 3.6% B240304,104.2141,,100,AAA,3/4/2024,Fixed Interest Rate,Simple interest,3.60%,1,3月4日,3,3,A/365F,"Pay interest on March 4 every year, and holidays are postponed",3,20
+2120010.IB,XIAMEN INTERNATIONAL BANK 3.58% B240316,104.8574,,100,AAA,3/16/2024,Fixed Interest Rate,Simple interest,3.58%,1,3月16日,3,3,A/365F,"Interest is paid on March 16 every year, holidays are postponed",3,40
+2120011.IB,BANK OF GUANGZHOU 3.52% B240316,104.1961,,100,AAA,3/16/2024,Fixed Interest Rate,Simple interest,3.52%,1,3月16日,3,3,ACT/ACT,"Interest is paid on March 16 every year, holidays are postponed",3,30
+2120012.IB,BANK OF CHONGQING 3.57% B240318,104.4403,2.811,100,AAA,3/18/2024,Fixed Interest Rate,Simple interest,3.57%,1,3月18日,3,3,A/365F,"Pay interest on March 18 every year, and postpone holidays",3,20
+2120016.IB,GUILIN BANK 3.7% B240323,103.6934,3.3758,100,AAA,3/23/2024,Fixed Interest Rate,Simple interest,3.70%,1,3月23日,3,3,A/365F,The interest payment holiday is postponed on March 23 every year,3,21
+2120021.IB,BANK OF LIUZHOU 4.00% B240329,104.0615,,100,AA+,3/29/2024,Fixed Interest Rate,Simple interest,4.00%,1,3月29日,3,3,ACT/ACT,"Pay interest on March 29 every year, and holidays are postponed",3,10
+2120025.IB,HZBANK 3.50% B240409,103.8496,2.87,100,AAA,4/9/2024,Fixed Interest Rate,Simple interest,3.50%,1,4月9日,3,3,A/365F,The interest payment will be postponed on April 9 every year,3,150
+2120026.IB,BANK OF JIANGSU 3.48% B240412,103.7669,2.89,100,AAA,4/12/2024,Fixed Interest Rate,Simple interest,3.48%,1,4月12日,3,3,A/365F,"Pay interest on April 12 every year, and postpone holidays",3,50
+2120027.IB,CHONGQING THREE GORGES BANK 3.8% B240412,103.6559,,100,AA+,4/12/2024,Fixed Interest Rate,Simple interest,3.80%,1,4月12日,3,3,A/365F,"Pay interest on April 12 every year, and postpone holidays",3,30
+2120028.IB,BANK OF NINGBO 3.48% B240412,104.6247,2.8084,100,AAA,4/12/2024,Fixed Interest Rate,Simple interest,3.48%,1,4月12日,3,3,ACT/ACT,"Pay interest on April 12 every year, and postpone holidays",3,50
+2120029.IB,BANK OF CHANGSHA 3.50% B240412,104.5119,,100,AAA,4/12/2024,Fixed Interest Rate,Simple interest,3.50%,1,4月12日,3,3,ACT/ACT,"Pay interest on April 12 every year, and postpone holidays",3,40
+2120030.IB,CHINA RESOURCES BANK OF ZHUHAI 3.5% B240416,103.7867,,100,AAA,4/16/2024,Fixed Interest Rate,Simple interest,3.50%,1,4月16日,3,3,A/365F,"April 16, 16, payment, holiday",3,15
+2120032.IB,GUANGXI BEIBU GULF BANK 3.65% B240414,102.9982,,100,AAA,4/14/2024,Fixed Interest Rate,Simple interest,3.65%,1,4月14日,3,3,ACT/ACT,The annual interest payment holiday is extended on April 14th,3,15
+2120033.IB,BOB 3.39% B240423,104.2818,2.9219,100,AAA,4/23/2024,Fixed Interest Rate,Simple interest,3.39%,1,4月23日,3,3,ACT/ACT,The interest payment holiday will be postponed on April 23 every year,3,40
+2120034.IB,BOB 3.38% B240423,103.6326,2.84,100,AAA,4/23/2024,Fixed Interest Rate,Simple interest,3.38%,1,4月23日,3,3,ACT/ACT,The interest payment holiday will be postponed on April 23 every year,3,20
+2120035.IB,XIAMEN INTERNATIONAL BANK 3.48% B240427,104.0888,,100,AAA,4/27/2024,Fixed Interest Rate,Simple interest,3.48%,1,4月27日,3,3,A/365F,"April 27, April 27, payment, holiday",3,30
+2120039.IB,HKB 3.80% B240428,103.6686,,100,AA+,4/28/2024,Fixed Interest Rate,Simple interest,3.80%,1,4月28日,3,3,A/365F,The annual interest payment holiday will be postponed on April 28th,3,10
+2120043.IB,LUZHOU CITY COMMERCIAL BANK 3.85% B240527,103.0701,,100,AA+,5/27/2024,Fixed Interest Rate,Simple interest,3.85%,1,5月27日,3,3,A/365F,"May 27, 27, payment, holiday",3,20
+2120048.IB,XIAMEN INTERNATIONAL BANK 3.33% B240604,103.5531,,100,AAA,6/4/2024,Fixed Interest Rate,Simple interest,3.33%,1,6月4日,3,3,A/365F,The interest payment will be postponed on June 4 every year,3,20
+2120049.IB,QILU BANK B240616,103.106,2.89,100,AAA,6/16/2024,Fixed Interest Rate,Simple interest,3.40%,1,6月16日,3,3,ACT/ACT,"Pay interest on June 16 each year, and holidays are postponed",3,40
+2120050.IB,21njcb Green Financial Bond 01.,103.3437,2.8779,100,AAA,6/15/2024,Fixed Interest Rate,Simple interest,3.28%,1,6月15日,3,3,ACT/ACT,"Pay interest on June 15 each year, and holidays are postponed",3,40
+2120053.IB,21 Weifang bank small and micro debt 01.,102.4141,,100,AA+,6/22/2024,Fixed Interest Rate,Simple interest,3.71%,1,6月22日,3,3,ACT/ACT,The interest payment holiday is extended on June 22 every year,3,20
+2120054.IB,ZHEJIANG MINTAI COMMERCIAL BANK 3.85% B240622,102.7612,,100,AA+,6/22/2024,Fixed Interest Rate,Simple interest,3.85%,1,6月22日,3,3,ACT/ACT,The interest payment holiday is extended on June 22 every year,3,7
+2120056.IB,ZY BANK 3.48% B240628,103.2299,,100,AAA,6/28/2024,Fixed Interest Rate,Simple interest,3.48%,1,6月28日,3,3,ACT/ACT,"Pay interest on June 28 every year, and postpone holidays",3,20
+2120061.IB,HKB 3.7% B240707,102.0819,3.2309,100,AA+,7/7/2024,Fixed Interest Rate,Simple interest,3.70%,1,7月7日,3,3,A/365F,The interest payment will be postponed on July 7 every year,3,20
+2120063.IB,BHN 3.8% B240712,102.4591,,100,AA+,7/12/2024,Fixed Interest Rate,Simple interest,3.80%,1,7月12日,3,3,A/365F,"Interest shall be paid on July 12 every year, and holidays shall be postponed accordingly",3,5
+2120065.IB,GUILIN BANK 3.38% B240715,101.6109,,100,AAA,7/15/2024,Fixed Interest Rate,Simple interest,3.38%,1,7月15日,3,3,A/365F,"Pay interest on July 15 each year, and holidays are postponed",3,24
+2120067.IB,DONGYING BANK 3.85% B240730,101.9092,,100,AA,7/30/2024,Fixed Interest Rate,Simple interest,3.85%,1,7月30日,3,3,ACT/ACT,The interest payment holiday is postponed on July 30 every year,3,10
+2120068.IB,BANK OF LIUZHOU 3.8% B240810,101.7598,,100,AA+,8/10/2024,Fixed Interest Rate,Simple interest,3.80%,1,8月10日,3,3,ACT/ACT,"Pay interest on August 10 every year, and postpone holidays",3,10
+2120070.IB,21 innovation and entrepreneurship bonds of Bank of Zhengzhou,101.9671,2.96,100,AAA,8/23/2024,Fixed Interest Rate,Simple interest,3.16%,1,8月23日,3,3,ACT/ACT,The interest payment will be postponed on August 23 every year,3,50
+2120071.IB,21 Bank of Shanghai,102.1296,2.88,100,AAA,8/20/2024,Fixed Interest Rate,Simple interest,3.03%,1,8月20日,3,3,ACT/ACT,The interest payment holiday will be postponed on August 20 every year,3,300
+2120073.IB,21 Bank of Guangzhou Small and Micro Bonds 02.,102.0548,,100,AAA,8/27/2024,Fixed Interest Rate,Simple interest,3.05%,1,8月27日,3,3,ACT/ACT,"Pay interest on August 27 every year, and postpone holidays",3,70
+2120076.IB,21 Changjiang Bank Xiaowei Debt 01.,101.6125,,100,AA,8/31/2024,Fixed Interest Rate,Simple interest,3.95%,1,8月31日,3,3,ACT/ACT,"Pay interest on August 31 every year, and postpone holidays",3,3
+2120079.IB,Fudian Bank,101.0519,,100,AA+,9/10/2024,Fixed Interest Rate,Simple interest,3.55%,1,9月10日,3,3,A/365F,The interest payment holiday is postponed on September 10 every year,3,20
+2120081.IB,21 HKB Small and Micro Bonds 03.,101.6995,,100,AA+,9/17/2024,Fixed Interest Rate,Simple interest,3.67%,1,9月17日,3,3,A/365F,The interest payment will be postponed on September 17 every year,3,20
+2120082.IB,21 Chouzhou Bank Small and Micro Bonds 01.,101.9661,,100,AA+,9/17/2024,Fixed Interest Rate,Simple interest,3.68%,1,9月17日,3,3,ACT/ACT,The interest payment will be postponed on September 17 every year,3,20
+2120084.IB,21 Guilin Bank Sannong Bond 03.,101.2261,3.44,100,AAA,9/24/2024,Fixed Interest Rate,Simple interest,3.38%,1,9月24日,3,3,A/365F,The interest payment holiday will be postponed every September 24,3,35
+2120086.IB,21czbank Small Micro Debt 01.,101.7366,2.89,100,AAA,9/27/2024,Fixed Interest Rate,Simple interest,3.00%,1,9月27日,3,3,A/365F,The interest payment will be postponed on September 27 every year,3,100
+2120087.IB,BANK OF DONGGUAN 3.09% B240927,101.9953,,100,AAA,9/27/2024,Fixed Interest Rate,Simple interest,3.09%,1,9月27日,3,3,ACT/ACT,The interest payment will be postponed on September 27 every year,3,30
+2120094.IB,21 small and micro Bonds 01 of Bank of Guiyang.,101.7125,,100,AAA,11/8/2024,Fixed Interest Rate,Simple interest,3.14%,1,11月8日,3,3,A/365F,"Pay interest on November 8 each year, and postpone holidays",3,40
+2120096.IB,21 Qinghai Bank 01,100.8351,,100,AA+,11/8/2024,Fixed Interest Rate,Simple interest,3.81%,1,11月8日,3,3,ACT/ACT,"Pay interest on November 8 each year, and postpone holidays",3,15
+2120097.IB,21 Beibu Gulf Bank Green Bond 01.,100.9575,,100,AAA,11/9/2024,Fixed Interest Rate,Simple interest,3.36%,1,11月9日,3,3,A/365F,The interest payment will be postponed on November 9 every year,3,20
+2120098.IB,21 Bank of Dongguan 02,101.2189,,100,AAA,11/9/2024,Fixed Interest Rate,Simple interest,3.10%,1,11月9日,3,3,ACT/ACT,The interest payment will be postponed on November 9 every year,3,30
+2120101.IB,21 Changjiang Bank Small and Micro Debt 02.,100.7233,,100,AA,11/22/2024,Fixed Interest Rate,Simple interest,4.00%,1,11月22日,3,3,ACT/ACT,The interest payment holiday will be postponed every November 22,3,5
+2120103.IB,21 Bank of Changsha Green Bonds,101.2898,2.922,100,AAA,11/25/2024,Fixed Interest Rate,Simple interest,3.03%,1,11月25日,3,3,ACT/ACT,"Interest is paid on November 25 every year, holidays are postponed",3,50
+2120106.IB,21 Jiaxing Bank Small and Micro Bonds,100.7537,,100,AA+,12/17/2024,Fixed Interest Rate,Simple interest,3.39%,1,12月17日,3,3,A/365F,"Interest is paid on December 17 each year, holidays are postponed",3,10
+2120109.IB,21njcb Green Financial Bond 02.,99.925,,100,AAA,12/9/2024,Fixed Interest Rate,Simple interest,2.80%,1,12月9日,3,3,ACT/ACT,The interest payment will be postponed on December 9 every year,3,10
+2120111.IB,21 Beibu Gulf Bank Green Bond 02.,100.7009,,100,AAA,12/10/2024,Fixed Interest Rate,Simple interest,3.30%,1,12月10日,3,3,A/365F,The interest payment will be postponed on December 10 every year,3,20
+2120112.IB,21 Guizhou Bank Green Bonds,101.3167,,100,AAA,12/13/2024,Fixed Interest Rate,Simple interest,3.45%,1,12月13日,3,3,ACT/ACT,"Pay interest on December 13 each year, and postpone holidays",3,50
+2120116.IB,21njcb 01,100.3137,3.0082,100,AAA,12/23/2024,Fixed Interest Rate,Simple interest,3.00%,1,12月23日,3,3,A/365F,The interest payment holiday is postponed on December 23 every year,3,180
+2120117.IB,21njcb 02,100.3136,,100,AAA,12/23/2026,Fixed Interest Rate,Simple interest,3.27%,1,12月23日,5,5,A/365F,The interest payment holiday is postponed on December 23 every year,5,20
+2120120.IB,21 Shaoxing Bank Small and Micro Bonds,100.2608,,100,AA+,12/30/2024,Fixed Interest Rate,Simple interest,3.40%,1,12月30日,3,3,ACT/ACT,"Interest is paid on December 30 every year, holidays are postponed",3,5
+2121001.IB,NANXUN BANK 3.7% B240114,100.5266,,100,AA,1/14/2024,Fixed Interest Rate,Simple interest,3.70%,1,1月14日,3,3,ACT/ACT,"Interest is paid on January 14 every year, holidays are postponed",3,2
+2121004.IB,DRCB 3.58% B240301,104.5978,,100,AAA,3/1/2024,Fixed Interest Rate,Simple interest,3.58%,1,3月1日,3,3,ACT/ACT,"Interest is paid on March 1 each year, and holidays are postponed",3,20
+2121005.IB,SHUNDE RURAL COMMERCIAL BANK 3.56% B240312,104.2192,,100,AAA,3/12/2024,Fixed Interest Rate,Simple interest,3.56%,1,3月12日,3,3,ACT/ACT,"Interest is paid on March 12 every year, holidays are postponed",3,10
+2121010.IB,XIAMEN RURAL COMMERCIAL BANK 3.70% B240330,104.1344,,100,AA+,3/30/2024,Fixed Interest Rate,Simple interest,3.70%,1,3月30日,3,3,ACT/ACT,"Interest is paid on March 30 every year, and holidays are postponed",3,20
+2121013.IB,DRCB 3.52% B240329,104.3006,,100,AAA,3/29/2024,Fixed Interest Rate,Simple interest,3.52%,1,3月29日,3,3,ACT/ACT,"Pay interest on March 29 every year, and holidays are postponed",3,10
+2121015.IB,ZHONGSHAN RURAL COMMERCIAL BANK 3.68% B240406,104.187,,100,AA+,4/6/2024,Fixed Interest Rate,Simple interest,3.68%,1,4月6日,3,3,ACT/ACT,"Pay interest on April 6 every year, and postpone holidays",3,30
+2121022.IB,CHANGSHU BANK 3.38% B240527,102.7961,,100,AA+,5/27/2024,Fixed Interest Rate,Simple interest,3.38%,1,5月27日,3,3,A/365F,"May 27, 27, payment, holiday",3,5
+2121024.IB,CHONGQING RURAL COMMERCIAL BANK 3.29% B240607,102.3457,,100,AAA,6/7/2024,Fixed Interest Rate,Simple interest,3.29%,1,6月7日,3,3,ACT/ACT,The interest payment holiday will be postponed on June 7 every year,3,10
+2121025.IB,CHONGQING RURAL COMMERCIAL BANK 3.29% B240607,103.1011,,100,AAA,6/7/2024,Fixed Interest Rate,Simple interest,3.29%,1,6月7日,3,3,ACT/ACT,The interest payment holiday will be postponed on June 7 every year,3,20
+2121027.IB,21 Xiaoshan Rural Commercial Small and Micro Bonds,102.3157,,100,AA+,7/7/2024,Fixed Interest Rate,Simple interest,3.50%,1,7月7日,3,3,A/365F,The interest payment will be postponed on July 7 every year,3,10
+2121035.IB,JRCB 3.18% B240805,101.5381,,100,AA+,8/5/2024,Fixed Interest Rate,Simple interest,3.18%,1,8月5日,3,3,ACT/ACT,"Pay interest on August 5 every year, and postpone holidays",3,10
+2121036.IB,YINZHOU BANK 3.2% B240809,101.8022,,100,AA+,8/9/2024,Fixed Interest Rate,Simple interest,3.20%,1,8月9日,3,3,ACT/ACT,Interest payment will be postponed on August 9 every year,3,20
+2121037.IB,"21 Changshu agriculture, commerce and agriculture debt",101.3938,,100,AA+,8/20/2024,Fixed Interest Rate,Simple interest,3.15%,1,8月20日,3,3,A/365F,The interest payment holiday will be postponed on August 20 every year,3,10
+2121040.IB,21 Changsha Rural Commercial Small and Micro Bond 01.,101.3606,,100,AA+,9/9/2024,Fixed Interest Rate,Simple interest,3.12%,1,9月9日,3,3,A/365F,"Pay interest on September 9 each year, and holidays are postponed",3,20
+2121041.IB,21 Rural Commercial Bank of Zhangjiang {ZRC} Small and Micro Bonds 01.,101.1544,,100,AA+,9/14/2024,Fixed Interest Rate,Simple interest,3.15%,1,9月14日,3,3,ACT/ACT,The interest payment holiday will be postponed on September 14 every year,3,25
+2121042.IB,TRC BANK 3.29% B240917,101.1898,,100,AAA,9/17/2024,Fixed Interest Rate,Simple interest,3.29%,1,9月17日,3,3,ACT/ACT,The interest payment will be postponed on September 17 every year,3,20
+2121043.IB,21 Huizhou Agricultural and Commercial Small and Micro Bonds,101.1512,,100,AA,9/17/2024,Fixed Interest Rate,Simple interest,3.50%,1,9月17日,3,3,A/365F,The interest payment will be postponed on September 17 every year,3,10
+2121046.IB,21 Changji Rural Commercial Green Financial Bonds 01.,101.6952,,100,AA-,9/24/2024,Fixed Interest Rate,Simple interest,4.95%,1,9月24日,3,3,ACT/ACT,The interest payment holiday will be postponed every September 24,3,0.55
+2121050.IB,21 Maanshan Rural Commercial Green Financial Bond 01.,100.8877,,100,AA,10/29/2024,Fixed Interest Rate,Simple interest,3.60%,1,10月29日,3,3,A/365F,The interest payment holiday will be postponed on October 29 every year,3,2
+2121063.IB,21 Jinhua Chengtai Rural Commercial Sannong Bond 01.,100.326,,100,AA-,12/24/2024,Fixed Interest Rate,Simple interest,3.50%,1,12月24日,3,3,ACT/ACT,"Pay interest on December 24 every year, and postpone holidays",3,1
+2126002.IB,HSBC BANK(CHINA) 3.60% B240401,104.1727,,100,AAA,4/1/2024,Fixed Interest Rate,Simple interest,3.60%,1,4月1日,3,3,ACT/ACT,"Interest is paid on April 1 every year, and holidays are postponed",3,20
+2126003.IB,OCBC BANK (CHINA) 3.5% B240524,103.1448,3.1697,100,AAA,5/24/2024,Fixed Interest Rate,Simple interest,3.50%,1,5月24日,3,3,ACT/ACT,"Pay interest on May 24 every year, and postpone holidays",3,10
+2126004.IB,21 Overseas Chinese Yongheng China 02,100.6003,,100,AAA,11/22/2024,Fixed Interest Rate,Simple interest,3.32%,1,11月22日,3,3,ACT/ACT,The interest payment holiday will be postponed every November 22,3,15
+2126005.IB,21 Huashang Bank 01,100.8864,,100,AAA,12/10/2024,Fixed Interest Rate,Simple interest,3.35%,1,12月10日,3,3,ACT/ACT,The interest payment will be postponed on December 10 every year,3,20
+2126006.IB,21 Nanyang Bank {NCB} 01,100.3447,,100,AAA,12/21/2024,Fixed Interest Rate,Simple interest,3.40%,1,12月21日,3,3,ACT/ACT,The interest payment will be postponed on December 21 every year,3,20
+2126007.IB,21 Nanyang Bank {NCB} 02,100.3801,,100,AAA,12/21/2026,Fixed Interest Rate,Simple interest,3.75%,1,12月21日,5,5,ACT/ACT,The interest payment will be postponed on December 21 every year,5,5
+2128003.IB,CCB 3.30% B240126,101.4126,2.6927,100,AAA,1/26/2024,Fixed Interest Rate,Simple interest,3.30%,1,1月26日,3,3,ACT/ACT,"Interest is paid on January 26 every year, holidays are postponed",3,200
+2128004.IB,CMB 3.40% B240315,104.591,2.7291,100,AAA,3/15/2024,Fixed Interest Rate,Simple interest,3.40%,1,3月15日,3,3,ACT/ACT,"Pay interest on March 15 every year, and postpone holidays",3,100
+2128005.IB,PAB 3.45% B240201,104.9961,2.7139,100,AAA,2/1/2024,Fixed Interest Rate,Simple interest,3.45%,1,2月1日,3,3,ACT/ACT,"Pay interest on February 1 every year, and postpone holidays",3,200
+2128006.IB,BANK OF CHINA 3.36% B240202,104.8511,2.6752,100,AAA,2/2/2024,Fixed Interest Rate,Simple interest,3.36%,1,2月2日,3,3,A/365F,The interest payment on February 2 of each year will be postponed,3,100
+2128007.IB,HUAXIA BANK 3.45% B240318,104.6131,2.77,100,AAA,3/18/2024,Fixed Interest Rate,Simple interest,3.45%,1,3月18日,3,3,ACT/ACT,"Pay interest on March 18 every year, and postpone holidays",3,270
+2128010.IB,CEB BANK 3.45% B240324,104.5557,2.7321,100,AAA,3/24/2024,Fixed Interest Rate,Simple interest,3.45%,1,3月24日,3,3,A/365F,The interest payment will be postponed on March 24 every year,3,400
+2128012.IB,SPD BANK 3.48% B240325,104.6689,2.7325,100,AAA,3/25/2024,Fixed Interest Rate,Simple interest,3.48%,1,3月25日,3,3,ACT/ACT,"Pay interest on March 25 every year, and postpone holidays",3,600
+2128013.IB,BANKCOMM 3.4% B240408,104.4354,2.7166,100,AAA,4/8/2024,Fixed Interest Rate,Simple interest,3.40%,1,4月8日,3,3,ACT/ACT,"Pay interest on April 8 every year, and postpone holidays",3,400
+2128014.IB,CBHB 3.55% B240408,104.0916,3.2129,100,AAA,4/8/2024,Fixed Interest Rate,Simple interest,3.55%,1,4月8日,3,3,A/365F,"Pay interest on April 8 every year, and postpone holidays",3,150
+2128015.IB,AGRICULTURAL BANK OF CHINA 3.38% B240413,104.3456,2.7181,100,AAA,4/13/2024,Fixed Interest Rate,Simple interest,3.38%,1,4月13日,3,3,ACT/ACT,"Pay interest on April 13 every year, and postpone holidays",3,200
+2128018.IB,CBHB 3.53% B240428,102.9235,3.2192,100,AAA,4/28/2024,Fixed Interest Rate,Simple interest,3.53%,1,4月28日,3,3,A/365F,The annual interest payment holiday will be postponed on April 28th,3,100
+2128020.IB,CMB 3.18% B240607,103.2258,2.7556,100,AAA,6/7/2024,Fixed Interest Rate,Simple interest,3.18%,1,6月7日,3,3,ACT/ACT,The interest payment holiday will be postponed on June 7 every year,3,200
+2128023.IB,CNCB B240610,103.2683,2.7565,100,AAA,6/10/2024,Fixed Interest Rate,Simple interest,3.19%,1,6月10日,3,3,ACT/ACT,"Pay interest on June 10 every year, and holidays are postponed",3,200
+2128024.IB,BANK OF CHINA 2.88% B240728,101.9836,2.749,100,AAA,7/28/2024,Fixed Interest Rate,Simple interest,2.88%,1,7月28日,3,3,A/365F,"Pay interest on July 28 every year, and holidays are postponed",3,300
+2128027.IB,21 small and micro debt of China Merchants Bank 03,101.7744,2.73,100,AAA,8/26/2024,Fixed Interest Rate,Simple interest,2.90%,1,8月26日,3,3,ACT/ACT,"Pay interest on August 26 every year, and postpone holidays",3,100
+2128031.IB,21icbc Green Financial Debt 01.,100.9829,2.8156,100,AAA,9/27/2024,Fixed Interest Rate,Simple interest,2.80%,1,9月27日,3,3,ACT/ACT,The interest payment will be postponed on September 27 every year,3,100
+2128035.IB,21 Huaxia Bank 02,101.4616,2.78,100,AAA,11/10/2024,Fixed Interest Rate,Simple interest,3.03%,1,11月10日,3,3,ACT/ACT,"Pay interest on November 10 every year, and holidays are postponed",3,400
+2128037.IB,21 CMBC 01,100.7805,3.0988,100,AAA,11/12/2024,Fixed Interest Rate,Simple interest,3.02%,1,11月12日,3,3,A/365F,"Pay interest on November 12 every year, and holidays are postponed",3,300
+2128041.IB,21 CGB Small and Micro Bonds,101.5254,2.78,100,AAA,11/16/2024,Fixed Interest Rate,Simple interest,3.03%,1,11月16日,3,3,ACT/ACT,"Interest is paid on November 16 each year, holidays are postponed",3,300
+2128046.IB,21 SPD Bank 02,101.1233,2.8254,100,AAA,12/6/2024,Fixed Interest Rate,Simple interest,2.97%,1,12月6日,3,3,ACT/ACT,"Pay interest on December 6 every year, and holidays are postponed",3,400
+2128048.IB,21minsheng Bank02,100.4463,3.1065,100,AAA,12/10/2024,Fixed Interest Rate,Simple interest,3.02%,1,12月10日,3,3,A/365F,The interest payment will be postponed on December 10 every year,3,300
+2220001.IB,22 Quanzhou Bank Small and Micro Bonds,100.1316,,100,AA+,1/13/2025,Fixed Interest Rate,Simple interest,3.30%,1,1月13日,3,3,ACT/ACT,"Pay interest on January 13 every year, and holidays are postponed",3,20
+2220003.IB,22 Tongshang Bank Small and Micro Bonds,100.0882,,100,AA+,1/17/2025,Fixed Interest Rate,Simple interest,3.22%,1,1月17日,3,3,ACT/ACT,"Pay interest on January 17 each year, and holidays are postponed",3,20
+2220004.IB,22 Guilin Bank Sannong Bond 01.,100.0789,,100,AAA,1/18/2025,Fixed Interest Rate,Simple interest,3.20%,1,1月18日,3,3,A/365F,"Pay interest on January 18 each year, and holidays are postponed",3,20
+2220009.IB,22tailong Small and Micro Bonds,100.0162,,100,AAA,1/25/2025,Fixed Interest Rate,Simple interest,2.95%,1,1月25日,3,3,A/365F,The interest payment will be postponed on January 25 every year,3,30
+2221001.IB,22 Maanshan Rural Commercial Green Bond 01.,100.0986,,100,AA,1/17/2025,Fixed Interest Rate,Simple interest,3.60%,1,1月17日,3,3,A/365F,"Pay interest on January 17 each year, and holidays are postponed",3,4
+2226001.IB,22 Nanyang Bank {NCB} 01,100.0291,,100,AAA,1/24/2027,Fixed Interest Rate,Simple interest,3.54%,1,1月24日,5,5,ACT/ACT,"Interest is paid on January 24 every year, holidays are postponed",5,10
+2228007.IB,22spd Bank 01,100.0147,,100,AAA,1/25/2025,Fixed Interest Rate,Simple interest,2.69%,1,1月25日,3,3,ACT/ACT,The interest payment will be postponed on January 25 every year,3,250
+2228008.IB,22spd Bank02,99.8443,,100,AAA,1/25/2025,Fixed Interest Rate,Simple interest,2.69%,1,1月25日,3,3,ACT/ACT,The interest payment will be postponed on January 25 every year,3,50

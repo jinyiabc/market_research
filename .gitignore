@@ -1,8 +1,4 @@
-*.cfg
 *.pyc
-test/helper/configSQL.py
-
-/venv/
-*.cfg
 test/helper/mysql.cfg
 test/helper/mysql.cfg
+/train_quantlib/

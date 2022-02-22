@@ -5,7 +5,7 @@ from helper.WSDLoader import WSDLoader
 
 
 
-def main(start_date, end_date):
+def run_wsd(start_date, end_date):
     """
     The main function
     :param start_date: str, set the start date, format: YYYYMMDD
@@ -33,12 +33,12 @@ if __name__ == '__main__':
     table_name = 'test_wsd4'
     field = "trade_code,close,windcode"
     options = "PriceAdj=B"
-    sector = '000300.SH'
-    # main(start, end)
+    sector = '000300.SH'   # 300 指数
+    run_wsd(start, end)
 
-    loader = WSDLoader(start, end, database, table_name, field, options)
-    data = loader.fetchall_data(wind_code='002460.SZ')
-    print(data)
+    # loader = WSDLoader(start, end, database, table_name, field, options)
+    # data = loader.fetchall_data(wind_code='002460.SZ')
+    # print(data)
     # WSDLoader.fetchall_log()
 
     # command usage:

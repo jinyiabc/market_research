@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PyPortfolioOpt/.idea/PyPortfolioOpt.iml" filepath="$PROJECT_DIR$/../PyPortfolioOpt/.idea/PyPortfolioOpt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../china_stock_lib/.idea/china_stock_lib.iml" filepath="$PROJECT_DIR$/../china_stock_lib/.idea/china_stock_lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/market_research.iml" filepath="$PROJECT_DIR$/.idea/market_research.iml" />
     </modules>
   </component>
